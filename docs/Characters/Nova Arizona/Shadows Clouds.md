@@ -1,8 +1,6 @@
 ## Bio:
 
-Shadows Clouds is a [[Legionaries|Legionary]] posted at [[West Rim Gas Station]] in 2281.
-
-Unknown right now. Legionary OC?
+Shadows Clouds is a [[Legionaries|Legionary]] Speculator posted at [[West Rim Gas Station]] in 2281. He is scouting out the [[SMART Array]] and investigating the [[Nimrod|cattle mutilations]] in the region.
 
 ## Quests:
 
