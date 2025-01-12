@@ -8,6 +8,7 @@ Blacknail is a man of few words, but fully committed to the Legion. He was taken
 
 - Involved in [[Something-Stupid]]
 - Involved in [[Wagon-Wheels]]
+- involved in [[Is-You-or-Is-You-Ain't]]
 
 ## Tags:
 
