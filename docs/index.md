@@ -1,6 +1,5 @@
-# Obsidian Notes
+# Nova Arizona Wiki
 
-Publish your public notes with MkDocs
 
 ## Hello World!
 
