@@ -1,0 +1,3 @@
+Haven, also known as Hideaway, a Safe Place, Easytown, or Moletown, is an underground, highly secretive community of insurgents and subversives who have collectively sought refuge from the Legion's oppressive rule.
+
+Haven exists within an abandoned pre-war mine near the equally deserted ruins of [[White Hills]], a company town that housed miners before the Great War. Many of those miners, radicalized by terrible working conditions, meager pay, and a federal ban on labor unions for all "critical" industries, had also been using the mine as a secret meeting place for resistance planning two centuries prior. The mine itself was decommissioned in the 2060s.
