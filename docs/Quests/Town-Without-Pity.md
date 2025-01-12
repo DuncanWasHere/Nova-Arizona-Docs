@@ -1,0 +1,1 @@
+[[Jem]] at [[Solitare Big Stop]] tasks the player with finding August, a friend of Support Unit Hoover. This quest leads to [[Is-You-or-Is-You-Ain't]] and [[Count-Every-Star]]. Completing the quest and listening to Jem's gossip will grant access to [[Running-Gun]].
