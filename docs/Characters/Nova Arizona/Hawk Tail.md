@@ -10,10 +10,10 @@ Watches over the precious material production process. Says little.
 
 ## Tags:
 
-- #concept-characters
-- #legion-characters
-- #legionary-characters
-- #the-pond-characters
-- #mojave-orientum-characters
-- #merchant-characters
-- #dreysam
+- [[concept-characters]]
+- [[legion-characters]]
+- [[legionary-characters]]
+- [[the-pond-characters]]
+- [[mojave-orientum-characters]]
+- [[merchant-characters]]
+- [[dreysam]]

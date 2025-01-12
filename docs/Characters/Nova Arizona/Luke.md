@@ -13,10 +13,10 @@ Luke represents the main opposition faction in the [[Mojave Orientum]] sharehold
 
 ## Tags:
 
-- #concept-characters
-- #liberti-characters
-- #mojave-orientum-characters
-- #merchant-characters
-- #quest-givers
-- #dolan-springs-characters
-- #alaska
+- [[concept-characters]]
+- [[liberti-characters]]
+- [[mojave-orientum-characters]]
+- [[merchant-characters]]
+- [[quest-givers]]
+- [[dolan-springs-characters]]
+- [[alaska]]

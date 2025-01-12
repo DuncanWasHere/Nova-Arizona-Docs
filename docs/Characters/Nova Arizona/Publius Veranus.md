@@ -10,8 +10,8 @@ Veranus is Suboptio temporalis to [[Optio Nerva]] at the Legate’s Camp. Missed
 
 ## Tags:
 
-- #implemented-characters
-- #hoover-dam-rest-stop-characters
-- #legionary-characters
-- #legion-characters
-- #alaska
+- [[implemented-characters]]
+- [[hoover-dam-rest-stop-characters]]
+- [[legionary-characters]]
+- [[legion-characters]]
+- [[alaska]]

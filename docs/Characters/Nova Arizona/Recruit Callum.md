@@ -11,10 +11,10 @@ Brash and immature young Legionary kidnapped by the [[Selig-Men]].
 
 ## Tags:
 
-- #implemented-characters
-- #legion-characters
-- #legionary-characters
-- #big-spar-mine-characters
-- #dolan-springs-characters
-- #quest-givers
-- #dreysam
+- [[implemented-characters]]
+- [[legion-characters]]
+- [[legionary-characters]]
+- [[big-spar-mine-characters]]
+- [[dolan-springs-characters]]
+- [[quest-givers]]
+- [[dreysam]]

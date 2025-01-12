@@ -11,9 +11,9 @@ Finturus is a by-the-book Legionary, and veteran of numerous campaigns of Arizon
 
 ## Tags:
 
-- #implemented-characters
-- #legion-characters
-- #legionary-characters
-- #base-camp-characters
-- #quest-givers
-- #alaska
+- [[implemented-characters]]
+- [[legion-characters]]
+- [[legionary-characters]]
+- [[base-camp-characters]]
+- [[quest-givers]]
+- [[alaska]]

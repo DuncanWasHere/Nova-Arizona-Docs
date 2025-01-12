@@ -15,10 +15,10 @@ When he regained consciousness, Bear discovered that Kyle had freed Jillian and 
 
 ## Tags:
 
-- #implemented-characters
-- #rusty-hook-characters
-- #super-mutant-characters
-- #liberti-characters
-- #quest-givers
-- #van-buren
-- #dreysam
+- [[implemented-characters]]
+- [[rusty-hook-characters]]
+- [[super-mutant-characters]]
+- [[liberti-characters]]
+- [[quest-givers]]
+- [[van-buren]]
+- [[dreysam]]

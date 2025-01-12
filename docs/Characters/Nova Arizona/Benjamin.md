@@ -22,7 +22,7 @@ Benjamin was recently wounded by [[Veteran Autonous]] and has since been stuck i
 
 ## Tags:
 
-- #implemented-characters
-- #support-unit-hoover-characters
-- #haven-characters
-- #alaska
+- [[implemented-characters]]
+- [[support-unit-hoover-characters]]
+- [[haven-characters]]
+- [[alaska]]

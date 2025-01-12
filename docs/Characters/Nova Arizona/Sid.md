@@ -11,8 +11,8 @@ Sid is an engineer and notorious ex-chem addict. Feels guilty for what he did to
 
 ## Tags:
 
-- #implemented-characters
-- #rusty-hook-characters
-- #liberti-characters
-- #van-buren
-- #dreysam
+- [[implemented-characters]]
+- [[rusty-hook-characters]]
+- [[liberti-characters]]
+- [[van-buren]]
+- [[dreysam]]

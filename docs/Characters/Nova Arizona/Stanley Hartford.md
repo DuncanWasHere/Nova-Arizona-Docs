@@ -8,9 +8,9 @@ Stanley Hartford is a Radio New Vegas reporter currently visiting the [[Malpais 
 
 ## Tags:
 
-- #implemented-characters
-- #liberti-characters
-- #malpais-characters
-- #quest-givers
-- #dreysam
-- #alaska
+- [[implemented-characters]]
+- [[liberti-characters]]
+- [[malpais-characters]]
+- [[quest-givers]]
+- [[dreysam]]
+- [[alaska]]

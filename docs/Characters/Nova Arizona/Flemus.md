@@ -13,8 +13,8 @@ Flemus is secretly romantically involved with [[Recruit Arceus]].
 
 ## Tags:
 
-- #implemented-characters
-- #legion-characters
-- #slave-characters
-- #base-camp-characters
-- #dreysam
+- [[implemented-characters]]
+- [[legion-characters]]
+- [[slave-characters]]
+- [[base-camp-characters]]
+- [[dreysam]]

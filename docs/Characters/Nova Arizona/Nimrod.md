@@ -11,8 +11,8 @@ A Nightkin with a split personality. He alternates between dull hermit rancher, 
 
 ## Tags:
 
-- #concept-characters
-- #super-mutant-characters
-- #smart-array-characters
-- #quest-givers
-- #dreysam
+- [[concept-characters]]
+- [[super-mutant-characters]]
+- [[smart-array-characters]]
+- [[quest-givers]]
+- [[dreysam]]

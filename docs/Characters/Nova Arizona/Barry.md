@@ -10,6 +10,6 @@ His family was killed by the [[Caesar's Legion|Legion]] at [[Dry Wells]].
 
 ## Tags:
 
-- #concept-characters
-- #west-of-the-colorado-characters
-- #alaska
+- [[concept-characters]]
+- [[west-of-the-colorado-characters]]
+- [[alaska]]

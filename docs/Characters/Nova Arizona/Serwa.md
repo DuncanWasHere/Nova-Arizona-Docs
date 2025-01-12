@@ -12,6 +12,6 @@ Serwa is the daughter of [[Benjamin]]. Very idealistic. Wants to fight the Legio
 
 ## Tags:
 
-- #implemented-characters
-- #haven-characters
-- #arizonadev
+- [[implemented-characters]]
+- [[haven-characters]]
+- [[arizonadev]]

@@ -12,8 +12,8 @@ Drusus is highly paranoid of illegal black-market business dealings being carrie
 
 ## Tags:
 
-- #concept-characters
-- #legion-characters
-- #legionary-characters
-- #3-some-caravan-company-characters
-- #alaska
+- [[concept-characters]]
+- [[legion-characters]]
+- [[legionary-characters]]
+- [[3-some-caravan-company-characters]]
+- [[alaska]]

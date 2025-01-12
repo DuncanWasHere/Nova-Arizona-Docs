@@ -14,8 +14,8 @@ Kemper has become more bitter and mistrusting ever since being given a job by th
 
 ## Tags:
 
-- #concept-characters
-- #the-pond-characters
-- #legion-deputy-characters
-- #mojave-orientum-characters
-- #dreysam
+- [[concept-characters]]
+- [[the-pond-characters]]
+- [[legion-deputy-characters]]
+- [[mojave-orientum-characters]]
+- [[dreysam]]

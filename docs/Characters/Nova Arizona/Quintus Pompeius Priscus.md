@@ -10,9 +10,9 @@ Priscus hates his gun and wants to trade for a better one.
 
 ## Tags:
 
-- #implemented-characters
-- #statio-characters
-- #legionary-characters
-- #legion-characters
-- #quest-givers
-- #alaska
+- [[implemented-characters]]
+- [[statio-characters]]
+- [[legionary-characters]]
+- [[legion-characters]]
+- [[quest-givers]]
+- [[alaska]]

@@ -11,8 +11,8 @@
 
 ## Tags:
 
-- #implemented-characters
-- #legion-characters
-- #legionary-characters
-- #base-camp-characters
-- #dreysam
+- [[implemented-characters]]
+- [[legion-characters]]
+- [[legionary-characters]]
+- [[base-camp-characters]]
+- [[dreysam]]

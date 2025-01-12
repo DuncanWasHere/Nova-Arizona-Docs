@@ -12,9 +12,9 @@ Second legate of the Legion. Involved in a campaign in Sedona, for he earned his
 
 ## Tags:
 
-- #implemented-characters
-- #legion-characters
-- #legionary-characters
-- #malpais-characters
-- #quest-givers
-- #duncan
+- [[implemented-characters]]
+- [[legion-characters]]
+- [[legionary-characters]]
+- [[malpais-characters]]
+- [[quest-givers]]
+- [[duncan]]

@@ -10,10 +10,10 @@ Jaw Ripper is a kindly, polite man who views the children that he is instructing
 
 ## Tags:
 
-- #concept-characters
-- #malpais-characters
-- #big-stop-characters
-- #legion-characters
-- #legionary-characters
-- #taylor
-- #alaska
+- [[concept-characters]]
+- [[malpais-characters]]
+- [[big-stop-characters]]
+- [[legion-characters]]
+- [[legionary-characters]]
+- [[taylor]]
+- [[alaska]]

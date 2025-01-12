@@ -10,9 +10,9 @@ Dalton studied at the University of Arizona and was awarded an MD in medicine an
 
 ## Tags:
 
-- #concept-characters
-- #liberti-characters
-- #dolan-springs-characters
-- #mojave-orientum-characters
-- #doctor-characters
-- #alaska
+- [[concept-characters]]
+- [[liberti-characters]]
+- [[dolan-springs-characters]]
+- [[mojave-orientum-characters]]
+- [[doctor-characters]]
+- [[alaska]]

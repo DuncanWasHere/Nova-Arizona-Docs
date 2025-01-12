@@ -12,7 +12,7 @@ He was previously a hydroponics doctor, but the loss of [[Niemann]] has forced h
 
 ## Tags:
 
-- #concept-characters
-- #doctor-characters
-- #haven-characters
-- #alaska
+- [[concept-characters]]
+- [[doctor-characters]]
+- [[haven-characters]]
+- [[alaska]]

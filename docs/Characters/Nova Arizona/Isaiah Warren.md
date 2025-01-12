@@ -12,8 +12,8 @@ Warren is a polite Legion deputy who also serves as [[Rima]]â€™s pimp. He doesnâ
 
 ## Tags:
 
-- #concept-characters
-- #legion-deputy-characters
-- #chloride-characters
-- #mojave-orientum-characters
-- #dreysam
+- [[concept-characters]]
+- [[legion-deputy-characters]]
+- [[chloride-characters]]
+- [[mojave-orientum-characters]]
+- [[dreysam]]

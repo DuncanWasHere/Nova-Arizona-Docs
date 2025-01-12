@@ -10,10 +10,10 @@ Late teenager from [[Bagdad]]. Traveling the wastes in the hopes of becoming a f
 
 ## Tags:
 
-- #concept-characters
-- #liberti-characters
-- #mojave-orientum-characters
-- #chloride-characters
-- #quest-givers
-- #duncan
-- #dreysam
+- [[concept-characters]]
+- [[liberti-characters]]
+- [[mojave-orientum-characters]]
+- [[chloride-characters]]
+- [[quest-givers]]
+- [[duncan]]
+- [[dreysam]]

@@ -12,8 +12,8 @@ Isabela is the mother of [[Pablo]]. Her husband was conscripted and sent off to 
 
 ## Tags:
 
-- #implemented-characters
-- #liberti-characters
-- #newt-characters
-- #quest-givers
-- #alaska
+- [[implemented-characters]]
+- [[liberti-characters]]
+- [[newt-characters]]
+- [[quest-givers]]
+- [[alaska]]

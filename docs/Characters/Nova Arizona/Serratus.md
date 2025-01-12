@@ -10,8 +10,8 @@ He deserted his post at the [[Malpais Legionary Camp]] to be closer to the front
 
 ## Tags:
 
-- #implemented-characters
-- #arizona-spillway-characters
-- #legionary-characters
-- #legion-characters
-- #alaska
+- [[implemented-characters]]
+- [[arizona-spillway-characters]]
+- [[legionary-characters]]
+- [[legion-characters]]
+- [[alaska]]

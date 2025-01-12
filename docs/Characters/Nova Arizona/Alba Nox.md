@@ -18,9 +18,9 @@ Alba Nox is a reasonable and well-spoken man.
 
 ## Tags:
 
-- #implemented-characters
-- #quest-givers
-- #big-stop-characters
-- #frumentarii-characters
-- #legion-characters
-- #dreysam
+- [[implemented-characters]]
+- [[quest-givers]]
+- [[big-stop-characters]]
+- [[frumentarii-characters]]
+- [[legion-characters]]
+- [[dreysam]]

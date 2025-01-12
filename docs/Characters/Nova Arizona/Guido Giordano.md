@@ -11,10 +11,10 @@ he middlest of the Giordano brothers. Runs the storelot and logistics of the 3-S
 
 ## Tags:
 
-- #implemented-characters
-- #liberti-characters
-- #3-some-caravan-characters
-- #3-some-caravan-company-characters
-- #merchant-characters
-- #van-buren
-- #arizonadev
+- [[implemented-characters]]
+- [[liberti-characters]]
+- [[3-some-caravan-characters]]
+- [[3-some-caravan-company-characters]]
+- [[merchant-characters]]
+- [[van-buren]]
+- [[arizonadev]]

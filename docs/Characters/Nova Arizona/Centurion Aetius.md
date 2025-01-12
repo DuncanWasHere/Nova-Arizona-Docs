@@ -13,9 +13,9 @@ Aetius is one of the few actual Legionaries in town. He obviously harbors deep r
 
 ## Tags:
 
-- #concept-characters
-- #legion-characters
-- #chloride-characters
-- #legionary-characters
-- #mojave-orientum-characters
-- #duncan
+- [[concept-characters]]
+- [[legion-characters]]
+- [[chloride-characters]]
+- [[legionary-characters]]
+- [[mojave-orientum-characters]]
+- [[duncan]]

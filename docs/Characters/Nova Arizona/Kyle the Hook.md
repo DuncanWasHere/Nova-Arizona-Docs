@@ -11,9 +11,9 @@ Kyle is a notorious douche, but he protects his gang from the boot of the Legion
 
 ## Tags:
 
-- #implemented-characters
-- #rusty-hook-characters
-- #liberti-characters
-- #quest-givers
-- #van-buren
-- #dreysam
+- [[implemented-characters]]
+- [[rusty-hook-characters]]
+- [[liberti-characters]]
+- [[quest-givers]]
+- [[van-buren]]
+- [[dreysam]]

@@ -10,7 +10,7 @@ He is trying to cross [[Hoover Dam]] due to the persecution he faces from the Le
 
 ## Tags:
 
-- #implemented-characters
-- #liberti-characters
-- #hoovers-hope-refugee-camp-characters
-- #dreysam
+- [[implemented-characters]]
+- [[liberti-characters]]
+- [[hoovers-hope-refugee-camp-characters]]
+- [[dreysam]]

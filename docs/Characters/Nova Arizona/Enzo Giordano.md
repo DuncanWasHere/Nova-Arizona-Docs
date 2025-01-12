@@ -10,10 +10,10 @@ The eldest of the Giordano brothers, Enzo is a straightforward and honorable bus
 
 ## Tags:
 
-- #implemented-characters
-- #liberti-characters
-- #3-some-caravan-characters
-- #3-some-caravan-company-characters
-- #quest-givers
-- #van-buren
-- #arizonadev
+- [[implemented-characters]]
+- [[liberti-characters]]
+- [[3-some-caravan-characters]]
+- [[3-some-caravan-company-characters]]
+- [[quest-givers]]
+- [[van-buren]]
+- [[arizonadev]]

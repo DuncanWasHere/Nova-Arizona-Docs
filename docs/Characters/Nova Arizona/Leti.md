@@ -8,6 +8,6 @@ Leti is one of the last survivors of the [[Selig-Men]] tribe, hiding out in [[Bi
 
 ## Tags:
 
-- #implemented-characters
-- #big-spar-mine-characters
-- #dreysam
+- [[implemented-characters]]
+- [[big-spar-mine-characters]]
+- [[dreysam]]

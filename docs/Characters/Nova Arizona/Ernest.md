@@ -10,7 +10,7 @@ Ernest may have collaborated with [[New California Republic Rangers|NCR Rangers]
 
 ## Tags:
 
-- #implemented-characters
-- #liberti-characters
-- #big-stop-characters
-- #dreysam
+- [[implemented-characters]]
+- [[liberti-characters]]
+- [[big-stop-characters]]
+- [[dreysam]]

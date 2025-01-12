@@ -10,8 +10,8 @@ Clarice is the mother of [[Steffie]].
 
 ## Tags:
 
-- #implemented-characters
-- #liberti-characters
-- #quest-givers
-- #big-stop-characters
-- #dreysam
+- [[implemented-characters]]
+- [[liberti-characters]]
+- [[quest-givers]]
+- [[big-stop-characters]]
+- [[dreysam]]

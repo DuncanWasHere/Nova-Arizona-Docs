@@ -11,9 +11,9 @@ Nunez was formerly a member of the [[Atomic Workers of New California]] when he 
 
 ## Tags:
 
-- #implemented-characters
-- #liberti-characters
-- #3-some-caravan-characters
-- #3-some-caravan-company-characters
-- #quest-givers
-- #arizonadev
+- [[implemented-characters]]
+- [[liberti-characters]]
+- [[3-some-caravan-characters]]
+- [[3-some-caravan-company-characters]]
+- [[quest-givers]]
+- [[arizonadev]]

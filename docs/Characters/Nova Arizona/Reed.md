@@ -16,7 +16,7 @@ Reed shares a room in the [[Junction Motel]] with [[Ernest]].
 
 ## Tags:
 
-- #implemented-characters
-- #liberti-characters
-- #big-stop-characters
-- #dreysam
+- [[implemented-characters]]
+- [[liberti-characters]]
+- [[big-stop-characters]]
+- [[dreysam]]

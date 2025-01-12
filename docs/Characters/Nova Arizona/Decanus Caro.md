@@ -10,9 +10,9 @@ Caro is a thoughtful man blinded by fanaticism.
 
 ## Tags:
 
-- #implemented-characters
-- #camp-willow-characters
-- #legion-characters
-- #legionary-characters
-- #quest-givers
-- #dreysam
+- [[implemented-characters]]
+- [[camp-willow-characters]]
+- [[legion-characters]]
+- [[legionary-characters]]
+- [[quest-givers]]
+- [[dreysam]]

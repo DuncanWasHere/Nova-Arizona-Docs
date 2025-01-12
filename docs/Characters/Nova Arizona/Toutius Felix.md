@@ -12,11 +12,11 @@ Felix is down bad for [[Maiden Prudence]]. He is stationed at Dolan Springs as p
 
 ## Tags:
 
-- #concept-characters
-- #legion-characters
-- #legionary-characters
-- #dolan-springs-characters
-- #mojave-orientum-characters
-- #quest-givers
-- #alaska
-- #duncan
+- [[concept-characters]]
+- [[legion-characters]]
+- [[legionary-characters]]
+- [[dolan-springs-characters]]
+- [[mojave-orientum-characters]]
+- [[quest-givers]]
+- [[alaska]]
+- [[duncan]]

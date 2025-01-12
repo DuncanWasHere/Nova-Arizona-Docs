@@ -10,6 +10,6 @@ She was adopted by [[Job]].
 
 ## Tags:
 
-- #concept-characters
-- #haven-characters
-- #alaska
+- [[concept-characters]]
+- [[haven-characters]]
+- [[alaska]]

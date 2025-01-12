@@ -12,8 +12,8 @@ Despite his stubborn loyalty to the [[Caesar's Legion|Legion]], Corvus is assume
 
 ## Tags:
 
-- #concept-characters
-- #haven-characters
-- #legion-characters
-- #frumentarii-characters
-- #alaska
+- [[concept-characters]]
+- [[haven-characters]]
+- [[legion-characters]]
+- [[frumentarii-characters]]
+- [[alaska]]

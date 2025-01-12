@@ -11,9 +11,9 @@ Iulia is an older slave woman who is secretly extremely spiteful towards [[Flemu
 
 ## Tags:
 
-- #implemented-characters
-- #slave-characters
-- #base-camp-characters
-- #quest-givers
-- #legion-characters
-- #dreysam
+- [[implemented-characters]]
+- [[slave-characters]]
+- [[base-camp-characters]]
+- [[quest-givers]]
+- [[legion-characters]]
+- [[dreysam]]

@@ -13,8 +13,8 @@ Cook-Cook if he found Jesus. A particularly vile raider who was inducted into th
 
 ## Tags:
 
-- #implemented-characters
-- #support-unit-hoover-characters
-- #haven-characters
-- #quest-givers
-- #arizonadev
+- [[implemented-characters]]
+- [[support-unit-hoover-characters]]
+- [[haven-characters]]
+- [[quest-givers]]
+- [[arizonadev]]

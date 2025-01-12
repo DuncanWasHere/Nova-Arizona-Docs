@@ -8,8 +8,8 @@ Good Doctor Fritter is a traveling snake oil salesman and huckster located at [[
 
 ## Tags:
 
-- #concept-characters
-- #liberti-characters
-- #grasshopper-junction-characters
-- #merchant-characters
-- #dreysam
+- [[concept-characters]]
+- [[liberti-characters]]
+- [[grasshopper-junction-characters]]
+- [[merchant-characters]]
+- [[dreysam]]

@@ -13,8 +13,8 @@ Dominicus Rex is originally from the [[Tan Caps|Tan Cap]] tribe.
 
 ## Tags:
 
-- #implemented-characters
-- #legion-characters
-- #legionary-characters
-- #big-stop-characters
-- #dreysam
+- [[implemented-characters]]
+- [[legion-characters]]
+- [[legionary-characters]]
+- [[big-stop-characters]]
+- [[dreysam]]

@@ -10,9 +10,9 @@ With a speech check, the player makes him open up about a childhood friend and f
 
 ## Tags:
 
-- #concept-characters
-- #malpais-characters
-- #legionary-characters
-- #legion-characters
-- #quest-givers
-- #pottosquares
+- [[concept-characters]]
+- [[malpais-characters]]
+- [[legionary-characters]]
+- [[legion-characters]]
+- [[quest-givers]]
+- [[pottosquares]]

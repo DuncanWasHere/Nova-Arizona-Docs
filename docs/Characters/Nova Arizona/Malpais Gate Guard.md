@@ -10,8 +10,8 @@ He ensures no outsiders carry weapons into the camp.
 
 ## Tags:
 
-- #implemented-characters
-- #malpais-characters
-- #legion-characters
-- #legionary-characters
-- #puddlepond
+- [[implemented-characters]]
+- [[malpais-characters]]
+- [[legion-characters]]
+- [[legionary-characters]]
+- [[puddlepond]]

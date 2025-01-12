@@ -11,8 +11,8 @@ Blacknail is a man of few words, but fully committed to the Legion. He was taken
 
 ## Tags:
 
-- #implemented-characters
-- #legion-characters
-- #legionary-characters
-- #base-camp-characters
-- #dreysam
+- [[implemented-characters]]
+- [[legion-characters]]
+- [[legionary-characters]]
+- [[base-camp-characters]]
+- [[dreysam]]

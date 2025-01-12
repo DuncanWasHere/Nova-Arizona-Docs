@@ -8,9 +8,9 @@ Donna is a female-identifying super mutant working as a bodyguard for [[Milia]] 
 
 ## Tags:
 
-- #concept-characters
-- #liberti-characters
-- #super-mutant-characters
-- #mojave-orientum-characters
-- #chloride-characters
-- #streikingvenom
+- [[concept-characters]]
+- [[liberti-characters]]
+- [[super-mutant-characters]]
+- [[mojave-orientum-characters]]
+- [[chloride-characters]]
+- [[streikingvenom]]

@@ -20,8 +20,8 @@ Brewing resentment stemming from disagreements over the risks associated with pa
 
 ## Tags:
 
-- #implemented-characters
-- #elephant-hill-characters
-- #support-unit-hoover-characters
-- #desert-ranger-characters
-- #alaska
+- [[implemented-characters]]
+- [[elephant-hill-characters]]
+- [[support-unit-hoover-characters]]
+- [[desert-ranger-characters]]
+- [[alaska]]

@@ -12,10 +12,10 @@ Religious trader from [[Colorado]] who viewed the arrival of Caesar’s Legion a
 
 ## Tags:
 
-- #concept-characters
-- #liberti-characters
-- #mojave-orientum-characters
-- #merchant-characters
-- #quest-givers
-- #dolan-springs-characters
-- #streikingvenom
+- [[concept-characters]]
+- [[liberti-characters]]
+- [[mojave-orientum-characters]]
+- [[merchant-characters]]
+- [[quest-givers]]
+- [[dolan-springs-characters]]
+- [[streikingvenom]]

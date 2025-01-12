@@ -11,10 +11,10 @@ Harlow is convinced his wife is cheating on him with another man and wants to se
 
 ## Tags:
 
-- #concept-characters
-- #liberti-characters
-- #dolan-springs-characters
-- #mojave-orientum-characters
-- #merchant-characters
-- #quest-givers
-- #duncan
+- [[concept-characters]]
+- [[liberti-characters]]
+- [[dolan-springs-characters]]
+- [[mojave-orientum-characters]]
+- [[merchant-characters]]
+- [[quest-givers]]
+- [[duncan]]

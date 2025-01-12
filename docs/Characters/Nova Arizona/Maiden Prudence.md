@@ -10,10 +10,10 @@ A quiet, mousy Maiden who works as a functionary in Priestess Calventia’s offi
 
 ## Tags:
 
-- #implemented-characters
-- #dolan-springs-characters
-- #cult-of-mars-characters
-- #legion-characters
-- #mojave-orientum-characters
-- #quest-givers
-- #arizonadev
+- [[implemented-characters]]
+- [[dolan-springs-characters]]
+- [[cult-of-mars-characters]]
+- [[legion-characters]]
+- [[mojave-orientum-characters]]
+- [[quest-givers]]
+- [[arizonadev]]

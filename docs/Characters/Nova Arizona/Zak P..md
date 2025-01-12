@@ -11,8 +11,8 @@ All of Zak's possessions have been stripped from his corpse, save for his custom
 
 ## Tags:
 
-- #concept-characters
-- #liberti-characters
-- #mount-tipton-characters
-- #dreysam
-- #duncan
+- [[concept-characters]]
+- [[liberti-characters]]
+- [[mount-tipton-characters]]
+- [[dreysam]]
+- [[duncan]]

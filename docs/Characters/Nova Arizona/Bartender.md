@@ -13,7 +13,7 @@ The bartender offers tips that will lead players to quests.
 
 ## Tags:
 
-- #implemented-characters
-- #liberti-characters
-- #malpais-characters
-- #alaska
+- [[implemented-characters]]
+- [[liberti-characters]]
+- [[malpais-characters]]
+- [[alaska]]

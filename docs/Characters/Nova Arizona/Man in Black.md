@@ -11,9 +11,9 @@ The Man in Black is a major smuggler for those who wish to avoid Legion scrutiny
 
 ## Tags:
 
-- #concept-characters
-- #criminal-underworld-characters
-- #kingman-outfit-characters
-- #liberti-characters
-- #grasshopper-junction-characters
-- #maximal
+- [[concept-characters]]
+- [[criminal-underworld-characters]]
+- [[kingman-outfit-characters]]
+- [[liberti-characters]]
+- [[grasshopper-junction-characters]]
+- [[maximal]]

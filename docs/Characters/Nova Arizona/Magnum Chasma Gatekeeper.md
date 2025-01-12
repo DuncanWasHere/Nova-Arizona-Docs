@@ -8,8 +8,8 @@ The Magnum Chasma Gatekeeper is a [[Legionaries|Legionary]] guarding the gate to
 
 ## Tags:
 
-- #implemented-characters
-- #legion-characters
-- #legionary-characters
-- #west-rim-gas-characters
-- #dreysam
+- [[implemented-characters]]
+- [[legion-characters]]
+- [[legionary-characters]]
+- [[west-rim-gas-characters]]
+- [[dreysam]]

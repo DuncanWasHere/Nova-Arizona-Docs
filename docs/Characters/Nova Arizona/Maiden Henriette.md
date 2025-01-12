@@ -11,9 +11,9 @@ A devout maiden of the Cult of Mars, hoping to ascend to the Priestessdom to get
 
 ## Tags:
 
-- #implemented-characters
-- #west-rim-gas-characters
-- #cult-of-mars-characters
-- #legion-characters
-- #quest-givers
-- #arizonadev
+- [[implemented-characters]]
+- [[west-rim-gas-characters]]
+- [[cult-of-mars-characters]]
+- [[legion-characters]]
+- [[quest-givers]]
+- [[arizonadev]]

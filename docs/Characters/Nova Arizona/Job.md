@@ -12,7 +12,7 @@ Originally from [[Vault 17]], Job is prone to fits of psychotic rage as he is fu
 
 ## Tags:
 
-- #implemented-characters
-- #super-mutant-characters
-- #haven-characters
-- #arizonadev
+- [[implemented-characters]]
+- [[super-mutant-characters]]
+- [[haven-characters]]
+- [[arizonadev]]

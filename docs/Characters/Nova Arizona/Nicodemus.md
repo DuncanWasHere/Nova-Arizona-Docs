@@ -13,11 +13,11 @@ Proprietor of the Dolan Springs Trading Post. Gonzo Hunter S. Thompson-type.
 
 ## Tags:
 
-- #concept-characters
-- #liberti-characters
-- #mojave-orientum-characters
-- #merchant-characters
-- #quest-givers
-- #dolan-springs-characters
-- #duncan
-- #dreysam
+- [[concept-characters]]
+- [[liberti-characters]]
+- [[mojave-orientum-characters]]
+- [[merchant-characters]]
+- [[quest-givers]]
+- [[dolan-springs-characters]]
+- [[duncan]]
+- [[dreysam]]

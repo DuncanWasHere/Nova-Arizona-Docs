@@ -10,9 +10,9 @@ Marty does not initially appear in-game. Searching for a distributor for Smooch,
 
 ## Tags:
 
-- #concept-characters
-- #ghoul-characters
-- #criminal-underworld-characters
-- #mount-tipton-cave-characters
-- #tipton-gang-characters
-- #streikingvenom
+- [[concept-characters]]
+- [[ghoul-characters]]
+- [[criminal-underworld-characters]]
+- [[mount-tipton-cave-characters]]
+- [[tipton-gang-characters]]
+- [[streikingvenom]]

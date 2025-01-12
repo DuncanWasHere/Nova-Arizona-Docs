@@ -8,11 +8,11 @@ Sandy Rhodes is a travelling merchant who starts in [[Elephant Hill]] and moves 
 
 ## Tags:
 
-- #implemented-characters
-- #merchant-characters
-- #liberti-characters
-- #elephant-hill-characters
-- #dolan-springs-characters
-- #chloride-characters
-- #mojave-orientum-characters
-- #dreysam
+- [[implemented-characters]]
+- [[merchant-characters]]
+- [[liberti-characters]]
+- [[elephant-hill-characters]]
+- [[dolan-springs-characters]]
+- [[chloride-characters]]
+- [[mojave-orientum-characters]]
+- [[dreysam]]

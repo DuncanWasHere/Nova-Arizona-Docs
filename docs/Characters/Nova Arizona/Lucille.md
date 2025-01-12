@@ -9,8 +9,8 @@ Lucille is an elder of the [[Tall Pines]] located at the [[Tall Pines Camp]] in 
 
 ## Tags:
 
-- #implemented-characters
-- #tall-pines-characters
-- #tall-pines-camp-characters
-- #quest-givers
-- #arizonadev
+- [[implemented-characters]]
+- [[tall-pines-characters]]
+- [[tall-pines-camp-characters]]
+- [[quest-givers]]
+- [[arizonadev]]

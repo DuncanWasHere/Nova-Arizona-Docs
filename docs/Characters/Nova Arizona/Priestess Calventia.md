@@ -15,10 +15,10 @@ Despises the governance and society of the [[Mojave Orientum]] province. Particu
 
 ## Tags:
 
-- #implemented-characters
-- #dolan-springs-characters
-- #cult-of-mars-characters
-- #legion-characters
-- #mojave-orientum-characters
-- #quest-givers
-- #arizonadev
+- [[implemented-characters]]
+- [[dolan-springs-characters]]
+- [[cult-of-mars-characters]]
+- [[legion-characters]]
+- [[mojave-orientum-characters]]
+- [[quest-givers]]
+- [[arizonadev]]

@@ -8,6 +8,6 @@ Jennifer is a boomers artillery stockpiler in 2281. Generally normal Boomer and 
 
 ## Tags:
 
-- #concept-characters
-- #west-of-the-colorado-characters
-- #alaska
+- [[concept-characters]]
+- [[west-of-the-colorado-characters]]
+- [[alaska]]

@@ -12,7 +12,7 @@ Pre-war professor, now a ghoul. Made bombs for the Desert Rangers in the 2260s. 
 
 ## Tags:
 
-- #implemented-characters
-- #ghoul-characters
-- #haven-characters
-- #dreysam
+- [[implemented-characters]]
+- [[ghoul-characters]]
+- [[haven-characters]]
+- [[dreysam]]

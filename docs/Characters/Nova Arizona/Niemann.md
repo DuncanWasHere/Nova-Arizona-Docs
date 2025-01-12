@@ -13,8 +13,8 @@ Was a medic and an idealist. The failure of the NCR to advance past Big Stop ang
 
 ## Tags:
 
-- #concept-characters
-- #mount-tipton-cave-characters
-- #support-unit-hoover-characters
-- #tipton-gang-characters
-- #alaska
+- [[concept-characters]]
+- [[mount-tipton-cave-characters]]
+- [[support-unit-hoover-characters]]
+- [[tipton-gang-characters]]
+- [[alaska]]

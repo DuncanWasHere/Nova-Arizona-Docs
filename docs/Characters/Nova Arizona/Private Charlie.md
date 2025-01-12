@@ -12,8 +12,8 @@ Idealistic NCR kid from [[New Adytum]]. Massacred several refugees while the res
 
 ## Tags:
 
-- #implemented-characters
-- #ncr-characters
-- #hoover-dam-characters
-- #ncr-army-characters
-- #alaska
+- [[implemented-characters]]
+- [[ncr-characters]]
+- [[hoover-dam-characters]]
+- [[ncr-army-characters]]
+- [[alaska]]

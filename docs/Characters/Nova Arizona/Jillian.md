@@ -11,9 +11,9 @@ Jillian's skills are primarily in tinkering with tech. She holds a grudge agains
 
 ## Tags:
 
-- #implemented-characters
-- #rusty-hook-characters
-- #liberti-characters
-- #merchant-characters
-- #van-buren
-- #dreysam
+- [[implemented-characters]]
+- [[rusty-hook-characters]]
+- [[liberti-characters]]
+- [[merchant-characters]]
+- [[van-buren]]
+- [[dreysam]]

@@ -10,9 +10,9 @@ Constantinus represents the Centurions at the Legate’s Camp.
 
 ## Tags:
 
-- #implemented-characters
-- #legion-characters
-- #legionary-characters
-- #malpais-characters
-- #quest-givers
-- #alaska
+- [[implemented-characters]]
+- [[legion-characters]]
+- [[legionary-characters]]
+- [[malpais-characters]]
+- [[quest-givers]]
+- [[alaska]]

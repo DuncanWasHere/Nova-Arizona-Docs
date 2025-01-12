@@ -10,8 +10,8 @@ Primarily concerned with educating the children and instilling in them Legion va
 
 ## Tags:
 
-- #concept-characters
-- #malpais-characters
-- #cult-of-mars-characters
-- #legion-characters
-- #arizonadev
+- [[concept-characters]]
+- [[malpais-characters]]
+- [[cult-of-mars-characters]]
+- [[legion-characters]]
+- [[arizonadev]]

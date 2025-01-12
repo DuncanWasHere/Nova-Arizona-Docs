@@ -14,8 +14,8 @@ Clark sells general goods.
 
 ## Tags:
 
-- #implemented-characters
-- #big-stop-characters
-- #merchant-characters
-- #liberti-characters
-- #dreysam
+- [[implemented-characters]]
+- [[big-stop-characters]]
+- [[merchant-characters]]
+- [[liberti-characters]]
+- [[dreysam]]

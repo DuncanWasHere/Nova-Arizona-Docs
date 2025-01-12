@@ -10,8 +10,8 @@ Legion deserter from [[Malpais Legionary Camp]]. Guarding the canyon from hostil
 
 ## Tags:
 
-- #implemented-characters
-- #spooky-canyon-characters
-- #legionary-characters
-- #legion-characters
-- #alaska
+- [[implemented-characters]]
+- [[spooky-canyon-characters]]
+- [[legionary-characters]]
+- [[legion-characters]]
+- [[alaska]]

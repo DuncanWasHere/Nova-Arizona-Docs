@@ -8,8 +8,8 @@ Trader Carlos is a merchant visiting the [[Malpais Market]] in 2281.
 
 ## Tags:
 
-- #implemented-characters
-- #liberti-characters
-- #malpais-characters
-- #merchant-characters
-- #alaska
+- [[implemented-characters]]
+- [[liberti-characters]]
+- [[malpais-characters]]
+- [[merchant-characters]]
+- [[alaska]]

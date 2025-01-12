@@ -10,8 +10,8 @@ Flaminius is a Veteran of the [[Dry-Wells-Campaign|Dry Wells]] and [[Parker-Camp
 
 ## Tags:
 
-- #implemented-characters
-- #legion-characters
-- #legionary-characters
-- #hoover-dam-rest-stop-characters
-- #alaska
+- [[implemented-characters]]
+- [[legion-characters]]
+- [[legionary-characters]]
+- [[hoover-dam-rest-stop-characters]]
+- [[alaska]]

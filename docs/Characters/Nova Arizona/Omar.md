@@ -12,10 +12,10 @@ He provides a negative view of the NCR because they won’t let him cross the da
 
 ## Tags:
 
-- #implemented-characters
-- #liberti-characters
-- #hoovers-hope-refugee-camp-characters
-- #merchant-characters
-- #quest-givers
-- #dreysam
-- #alaska
+- [[implemented-characters]]
+- [[liberti-characters]]
+- [[hoovers-hope-refugee-camp-characters]]
+- [[merchant-characters]]
+- [[quest-givers]]
+- [[dreysam]]
+- [[alaska]]

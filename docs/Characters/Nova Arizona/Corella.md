@@ -12,9 +12,9 @@ Corella serves as the tent maid of [[Recruit Arceus]]’s contubernium.
 
 ## Tags:
 
-- #implemented-characters
-- #slave-characters
-- #base-camp-characters
-- #quest-givers
-- #legion-characters
-- #dreysam
+- [[implemented-characters]]
+- [[slave-characters]]
+- [[base-camp-characters]]
+- [[quest-givers]]
+- [[legion-characters]]
+- [[dreysam]]

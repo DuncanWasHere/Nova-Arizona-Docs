@@ -12,8 +12,8 @@ Defends [[Private Charlie]]’s actions at the checkpoint. Believes that [[Capta
 
 ## Tags:
 
-- #implemented-characters
-- #ncr-characters
-- #hoover-dam-characters
-- #ncr-army-characters
-- #alaska
+- [[implemented-characters]]
+- [[ncr-characters]]
+- [[hoover-dam-characters]]
+- [[ncr-army-characters]]
+- [[alaska]]

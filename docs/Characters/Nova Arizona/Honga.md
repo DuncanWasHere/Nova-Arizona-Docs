@@ -12,10 +12,10 @@ After his capture, Honga was transported to [[Chloride]] and then sold to [[Juli
 
 ## Tags:
 
-- #concept-characters
-- #slave-characters
-- #the-pond-characters
-- #mojave-orientum-characters
-- #tall-pines-characters
-- #quest-givers
-- #taylor
+- [[concept-characters]]
+- [[slave-characters]]
+- [[the-pond-characters]]
+- [[mojave-orientum-characters]]
+- [[tall-pines-characters]]
+- [[quest-givers]]
+- [[taylor]]

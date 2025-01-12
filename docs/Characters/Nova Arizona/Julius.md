@@ -12,9 +12,9 @@ When the [[Mojave Orientum]] province was first chartered, Julius entered a cont
 
 ## Tags:
 
-- #concept-characters
-- #liberti-characters
-- #mojave-orientum-characters
-- #chloride-characters
-- #alaska
-- #dreysam
+- [[concept-characters]]
+- [[liberti-characters]]
+- [[mojave-orientum-characters]]
+- [[chloride-characters]]
+- [[alaska]]
+- [[dreysam]]

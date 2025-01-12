@@ -12,9 +12,9 @@ In hiding. His son joined the [[Desert Rangers]], and they parted in anger. Sher
 
 ## Tags:
 
-- #concept-characters
-- #atlas-tower-characters
-- #support-unit-hoover-characters
-- #liberti-characters
-- #quest-givers
-- #dreysam
+- [[concept-characters]]
+- [[atlas-tower-characters]]
+- [[support-unit-hoover-characters]]
+- [[liberti-characters]]
+- [[quest-givers]]
+- [[dreysam]]

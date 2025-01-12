@@ -10,8 +10,8 @@ Paul has an obscure past but involved in the [[Cleansing-of-Flagstaff]]. Attempt
 
 ## Tags:
 
-- #concept-characters
-- #atlas-tower-characters
-- #frumentarii-characters
-- #legion-characters
-- #dreysam
+- [[concept-characters]]
+- [[atlas-tower-characters]]
+- [[frumentarii-characters]]
+- [[legion-characters]]
+- [[dreysam]]

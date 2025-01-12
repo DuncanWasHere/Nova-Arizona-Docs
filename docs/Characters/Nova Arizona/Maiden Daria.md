@@ -10,8 +10,8 @@ Masseuse, nurse, and counselor. Carefree and sweet, though not naive. Keeps sold
 
 ## Tags:
 
-- #concept-characters
-- #malpais-characters
-- #cult-of-mars-characters
-- #legion-characters
-- #dreysam
+- [[concept-characters]]
+- [[malpais-characters]]
+- [[cult-of-mars-characters]]
+- [[legion-characters]]
+- [[dreysam]]

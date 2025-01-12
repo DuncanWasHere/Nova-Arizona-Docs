@@ -14,9 +14,9 @@ Wire is a xenophobic bigot from [[Vault City]] who interpreted orders to stop sa
 
 ## Tags:
 
-- #implemented-characters
-- #ncr-characters
-- #quest-givers
-- #hoover-dam-characters
-- #ncr-army-characters
-- #alaska
+- [[implemented-characters]]
+- [[ncr-characters]]
+- [[quest-givers]]
+- [[hoover-dam-characters]]
+- [[ncr-army-characters]]
+- [[alaska]]

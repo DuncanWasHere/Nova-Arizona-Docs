@@ -10,9 +10,9 @@ Her company sells energy weapons and high-tech junk. They were forced into Legio
 
 ## Tags:
 
-- #concept-characters
-- #liberti-characters
-- #merchant-characters
-- #mojave-orientum-characters
-- #chloride-characters
-- #streikingvenom
+- [[concept-characters]]
+- [[liberti-characters]]
+- [[merchant-characters]]
+- [[mojave-orientum-characters]]
+- [[chloride-characters]]
+- [[streikingvenom]]

@@ -12,7 +12,7 @@ Graffiti artist. Does not fully understand the threat that the Legion poses to N
 
 ## Tags:
 
-- #implemented-characters
-- #liberti-characters
-- #newt-characters
-- #alaska
+- [[implemented-characters]]
+- [[liberti-characters]]
+- [[newt-characters]]
+- [[alaska]]

@@ -10,6 +10,6 @@ He is a Ranger(?)
 
 ## Tags:
 
-- #implemented-characters
-- #west-of-the-colorado-characters
-- #alaska
+- [[implemented-characters]]
+- [[west-of-the-colorado-characters]]
+- [[alaska]]

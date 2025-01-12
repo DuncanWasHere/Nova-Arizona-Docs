@@ -10,8 +10,8 @@ She is being pimped out by [[Isaiah Warren]] and the other [[Deputies]]. Her exi
 
 ## Tags:
 
-- #concept-characters
-- #slave-characters
-- #chloride-characters
-- #mojave-orientum-characters
-- #dreysam
+- [[concept-characters]]
+- [[slave-characters]]
+- [[chloride-characters]]
+- [[mojave-orientum-characters]]
+- [[dreysam]]

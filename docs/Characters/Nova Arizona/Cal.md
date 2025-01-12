@@ -14,10 +14,10 @@ Cal is a Follower, a doctor, a Ranger, a hero, a coward, an ambassador, a traine
 
 ## Tags:
 
-- #implemented-characters
-- #support-unit-hoover-characters
-- #followers-of-the-apocalypse-characters
-- #haven-characters
-- #quest-givers
-- #new-vegas
-- #arizonadev
+- [[implemented-characters]]
+- [[support-unit-hoover-characters]]
+- [[followers-of-the-apocalypse-characters]]
+- [[haven-characters]]
+- [[quest-givers]]
+- [[new-vegas]]
+- [[arizonadev]]

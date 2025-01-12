@@ -10,10 +10,10 @@ An old prospector wanting help with recovering a stash of silver from [[Big Spar
 
 ## Tags:
 
-- #concept-characters
-- #merchant-characters
-- #liberti-characters
-- #elephant-hill-characters
-- #quest-givers
-- #dayglow
-- #dreysam
+- [[concept-characters]]
+- [[merchant-characters]]
+- [[liberti-characters]]
+- [[elephant-hill-characters]]
+- [[quest-givers]]
+- [[dayglow]]
+- [[dreysam]]

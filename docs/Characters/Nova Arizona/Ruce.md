@@ -10,6 +10,6 @@ Former drug dealer. Works as the main gate guard. Straight-laced, anti-ideologic
 
 ## Tags:
 
-- #implemented-characters
-- #haven-characters
-- #dreysam
+- [[implemented-characters]]
+- [[haven-characters]]
+- [[dreysam]]

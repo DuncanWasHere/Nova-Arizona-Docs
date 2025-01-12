@@ -10,8 +10,8 @@ Took part in the [[Battle-of-Arizona-Spillway]].
 
 ## Tags:
 
-- #implemented-characters
-- #arizona-spillway-characters
-- #legionary-characters
-- #legion-characters
-- #alaska
+- [[implemented-characters]]
+- [[arizona-spillway-characters]]
+- [[legionary-characters]]
+- [[legion-characters]]
+- [[alaska]]

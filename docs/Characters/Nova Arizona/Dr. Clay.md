@@ -12,9 +12,9 @@ Dr. Clay is one of the founding [[Tall Pines]] who first settled around the trad
 
 ## Tags:
 
-- #implemented-characters
-- #newt-characters
-- #doctor-characters
-- #liberti-characters
-- #quest-givers
-- #arizonadev
+- [[implemented-characters]]
+- [[newt-characters]]
+- [[doctor-characters]]
+- [[liberti-characters]]
+- [[quest-givers]]
+- [[arizonadev]]

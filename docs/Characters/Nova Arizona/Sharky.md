@@ -10,6 +10,6 @@ Former slave. Rescued by [[Barker]] at the [[SMART Array]]. Is critically injure
 
 ## Tags:
 
-- #concept-characters
-- #haven-characters
-- #alaska
+- [[concept-characters]]
+- [[haven-characters]]
+- [[alaska]]

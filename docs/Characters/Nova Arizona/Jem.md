@@ -12,9 +12,9 @@ Early 30s, oddly chipper and upbeat merchant. Came down to Nevada from ??? looki
 
 ## Tags:
 
-- #implemented-characters
-- #big-stop-characters
-- #merchant-characters
-- #liberti-characters
-- #quest-givers
-- #anon2971
+- [[implemented-characters]]
+- [[big-stop-characters]]
+- [[merchant-characters]]
+- [[liberti-characters]]
+- [[quest-givers]]
+- [[anon2971]]

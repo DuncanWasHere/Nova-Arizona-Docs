@@ -11,7 +11,7 @@ Rae works as [[Dr. Clay]]’s assistant/receptionist.
 
 ## Tags:
 
-- #implemented-characters
-- #newt-characters
-- #liberti-characters
-- #arizonadev
+- [[implemented-characters]]
+- [[newt-characters]]
+- [[liberti-characters]]
+- [[arizonadev]]

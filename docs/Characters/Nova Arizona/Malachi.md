@@ -11,8 +11,8 @@ Self-made businessman and head of a mysterious slavery ring based out of Two Sun
 
 ## Tags:
 
-- #implemented-characters
-- #liberti-characters
-- #malpais-characters
-- #merchant-characters
-- #dreysam
+- [[implemented-characters]]
+- [[liberti-characters]]
+- [[malpais-characters]]
+- [[merchant-characters]]
+- [[dreysam]]

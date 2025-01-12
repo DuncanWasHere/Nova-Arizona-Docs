@@ -11,9 +11,9 @@ Fat-Eye is named after his tendency to get into fights while high and or drunk w
 
 ## Tags:
 
-- #implemented-characters
-- #criminal-underworld-characters
-- #liberti-characters
-- #kingman-outfit-characters
-- #elephant-hill-characters
-- #streikingvenom
+- [[implemented-characters]]
+- [[criminal-underworld-characters]]
+- [[liberti-characters]]
+- [[kingman-outfit-characters]]
+- [[elephant-hill-characters]]
+- [[streikingvenom]]

@@ -10,8 +10,8 @@ Takes inventory of slaves and negotiates sales.
 
 ## Tags:
 
-- #concept-characters
-- #legion-characters
-- #malpais-characters
-- #legion-administratio-characters
-- #dreysam
+- [[concept-characters]]
+- [[legion-characters]]
+- [[malpais-characters]]
+- [[legion-administratio-characters]]
+- [[dreysam]]

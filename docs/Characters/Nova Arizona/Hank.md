@@ -14,11 +14,11 @@ Hank is partners with [[Beth]], both trying to sell a shipment of Displacer Glov
 
 ## Tags:
 
-- #implemented-characters
-- #ghoul-characters
-- #liberti-characters
-- #base-camp-characters
-- #reservation-characters
-- #merchant-characters
-- #quest-givers
-- #arizonadev
+- [[implemented-characters]]
+- [[ghoul-characters]]
+- [[liberti-characters]]
+- [[base-camp-characters]]
+- [[reservation-characters]]
+- [[merchant-characters]]
+- [[quest-givers]]
+- [[arizonadev]]

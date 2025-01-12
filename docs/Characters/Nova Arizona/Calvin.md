@@ -12,10 +12,10 @@ Former member of the White Sands Caravans. Seeks to rebuild White Sands back to 
 
 ## Tags:
 
-- #implemented-characters
-- #liberti-characters
-- #white-sands-caravans-characters
-- #mojave-orientum-characters
-- #quest-givers
-- #chloride-characters
-- #alaska
+- [[implemented-characters]]
+- [[liberti-characters]]
+- [[white-sands-caravans-characters]]
+- [[mojave-orientum-characters]]
+- [[quest-givers]]
+- [[chloride-characters]]
+- [[alaska]]

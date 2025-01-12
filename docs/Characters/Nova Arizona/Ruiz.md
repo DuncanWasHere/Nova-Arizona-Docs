@@ -10,9 +10,9 @@ Ruiz planned to travel to [[The Fort]] but his journey was impede by the [[Chain
 
 ## Tags:
 
-- #concept-characters
-- #merchant-characters
-- #liberti-characters
-- #elephant-hill-characters
-- #mojave-orientum-characters
-- #arizonadev
+- [[concept-characters]]
+- [[merchant-characters]]
+- [[liberti-characters]]
+- [[elephant-hill-characters]]
+- [[mojave-orientum-characters]]
+- [[arizonadev]]

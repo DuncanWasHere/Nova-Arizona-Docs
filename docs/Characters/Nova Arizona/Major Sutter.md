@@ -10,9 +10,9 @@ Cruel, cunning hick from Sac-Town. Gleefully participated in the Mojave Pacifica
 
 ## Tags:
 
-- #concept-characters
-- #ncr-characters
-- #quest-givers
-- #hoover-dam-characters
-- #ncr-army-characters
-- #dreysam
+- [[concept-characters]]
+- [[ncr-characters]]
+- [[quest-givers]]
+- [[hoover-dam-characters]]
+- [[ncr-army-characters]]
+- [[dreysam]]

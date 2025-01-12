@@ -12,6 +12,6 @@ Murray is a hippie-type. Vaguely ideological, but more hedonist. Legitimately be
 
 ## Tags:
 
-- #implemented-characters
-- #haven-characters
-- #arizonadev
+- [[implemented-characters]]
+- [[haven-characters]]
+- [[arizonadev]]

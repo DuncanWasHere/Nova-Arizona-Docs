@@ -12,8 +12,8 @@ Legionary boy in training. Doesn’t know much about the outside world but is to
 
 ## Tags:
 
-- #implemented-characters
-- #legion-characters
-- #legionary-characters
-- #base-camp-characters
-- #dreysam
+- [[implemented-characters]]
+- [[legion-characters]]
+- [[legionary-characters]]
+- [[base-camp-characters]]
+- [[dreysam]]

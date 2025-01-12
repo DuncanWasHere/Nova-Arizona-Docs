@@ -8,8 +8,8 @@ Manius Castulus is a [[Legionaries|Legionary]] Slavemaster overseeing the [[Malp
 
 ## Tags:
 
-- #implemented-characters
-- #legion-characters
-- #legionary-characters
-- #malpais-gold-mine-characters
-- #duncan
+- [[implemented-characters]]
+- [[legion-characters]]
+- [[legionary-characters]]
+- [[malpais-gold-mine-characters]]
+- [[duncan]]

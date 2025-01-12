@@ -12,8 +12,8 @@ Cyn is determined and pragmatic.
 
 ## Tags:
 
-- #concept-characters
-- #malpais-characters
-- #cult-of-mars-characters
-- #legion-characters
-- #arizonadev
+- [[concept-characters]]
+- [[malpais-characters]]
+- [[cult-of-mars-characters]]
+- [[legion-characters]]
+- [[arizonadev]]

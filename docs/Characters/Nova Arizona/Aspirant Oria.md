@@ -13,9 +13,9 @@ Oria has developed a rivalry with Becca over their competing influence in the to
 
 ## Tags:
 
-- #implemented-characters
-- #newt-characters
-- #cult-of-mars-characters
-- #legion-characters
-- #arizonadev
-- #dreysam
+- [[implemented-characters]]
+- [[newt-characters]]
+- [[cult-of-mars-characters]]
+- [[legion-characters]]
+- [[arizonadev]]
+- [[dreysam]]

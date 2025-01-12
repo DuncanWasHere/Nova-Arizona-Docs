@@ -12,11 +12,11 @@ A lifetime of service in the Legion’s scribonii has led to him being rewarded 
 
 ## Tags:
 
-- #implemented-characters
-- #legion-characters
-- #legion-administratio-characters
-- #mojave-orientum-characters
-- #quest-givers
-- #chloride-characters
-- #alaska
-- #duncan
+- [[implemented-characters]]
+- [[legion-characters]]
+- [[legion-administratio-characters]]
+- [[mojave-orientum-characters]]
+- [[quest-givers]]
+- [[chloride-characters]]
+- [[alaska]]
+- [[duncan]]

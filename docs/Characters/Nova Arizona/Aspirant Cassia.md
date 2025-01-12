@@ -13,10 +13,10 @@ Cassia struggles with maintaining her cover and betrayal of the Hippocratic Oath
 
 ## Tags:
 
-- #concept-characters
-- #big-stop-characters
-- #cult-of-mars-characters
-- #legion-characters
-- #quest-givers
-- #followers-of-the-apocalypse-characters
-- #alaska
+- [[concept-characters]]
+- [[big-stop-characters]]
+- [[cult-of-mars-characters]]
+- [[legion-characters]]
+- [[quest-givers]]
+- [[followers-of-the-apocalypse-characters]]
+- [[alaska]]

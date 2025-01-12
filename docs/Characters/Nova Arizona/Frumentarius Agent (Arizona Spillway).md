@@ -8,8 +8,8 @@ The Frumentarius Agent is an unnamed [[Frumentarii|Frumentarius]] camping above 
 
 ## Tags:
 
-- #implemented-characters
-- #legion-characters
-- #arizona-spillway-characters
-- #frumentarii-characters
-- #alaska
+- [[implemented-characters]]
+- [[legion-characters]]
+- [[arizona-spillway-characters]]
+- [[frumentarii-characters]]
+- [[alaska]]

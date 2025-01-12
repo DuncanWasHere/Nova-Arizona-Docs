@@ -13,7 +13,7 @@ Her mother, [[Clarice]], is imprisoned at the [[Solitare Gas Station]].
 
 ## Tags:
 
-- #implemented-characters
-- #liberti-characters
-- #hoovers-hope-refugee-camp-characters
-- #dreysam
+- [[implemented-characters]]
+- [[liberti-characters]]
+- [[hoovers-hope-refugee-camp-characters]]
+- [[dreysam]]

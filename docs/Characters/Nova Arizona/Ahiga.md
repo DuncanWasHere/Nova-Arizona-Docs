@@ -15,9 +15,9 @@ Ahiga recently took part in [[Dominicus Rex|Dominicus Rex's]] execution spree fo
 
 ## Tags:
 
-- #implemented-characters
-- #quest-givers
-- #big-stop-characters
-- #frumentarii-characters
-- #legion-characters
-- #alaska
+- [[implemented-characters]]
+- [[quest-givers]]
+- [[big-stop-characters]]
+- [[frumentarii-characters]]
+- [[legion-characters]]
+- [[alaska]]

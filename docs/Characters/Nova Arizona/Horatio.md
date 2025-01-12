@@ -11,9 +11,9 @@ Horatio works in the Office of Logistics, a branch of the [[Administratio]].
 
 ## Tags:
 
-- #concept-characters
-- #legion-characters
-- #malpais-characters
-- #legion-administratio-characters
-- #quest-givers
-- #dreysam
+- [[concept-characters]]
+- [[legion-characters]]
+- [[malpais-characters]]
+- [[legion-administratio-characters]]
+- [[quest-givers]]
+- [[dreysam]]

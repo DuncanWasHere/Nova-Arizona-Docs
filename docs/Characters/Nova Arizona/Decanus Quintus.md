@@ -10,9 +10,9 @@ Decanus Quintus is a [[Legionaries|Legionary]] Decanus in command of a contubern
 
 ## Tags:
 
-- #implemented-characters
-- #legion-characters
-- #legionary-characters
-- #dolan-springs-characters
-- #mojave-orientum-characters
-- #dreysam
+- [[implemented-characters]]
+- [[legion-characters]]
+- [[legionary-characters]]
+- [[dolan-springs-characters]]
+- [[mojave-orientum-characters]]
+- [[dreysam]]

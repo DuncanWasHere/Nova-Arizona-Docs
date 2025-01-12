@@ -11,8 +11,8 @@ Jess currently works as [[Niemann]]’s personal secretary. In it for the money.
 
 ## Tags:
 
-- #concept-characters
-- #criminal-underworld-characters
-- #mount-tipton-cave-characters
-- #tipton-gang-characters
-- #alaska
+- [[concept-characters]]
+- [[criminal-underworld-characters]]
+- [[mount-tipton-cave-characters]]
+- [[tipton-gang-characters]]
+- [[alaska]]

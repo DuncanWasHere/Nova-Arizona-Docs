@@ -12,10 +12,10 @@ Generally apolitical.
 
 ## Tags:
 
-- #implemented-characters
-- #liberti-characters
-- #mojave-orientum-characters
-- #merchant-characters
-- #quest-givers
-- #dolan-springs-characters
-- #alaska
+- [[implemented-characters]]
+- [[liberti-characters]]
+- [[mojave-orientum-characters]]
+- [[merchant-characters]]
+- [[quest-givers]]
+- [[dolan-springs-characters]]
+- [[alaska]]

@@ -10,9 +10,9 @@ He seduced Harlow's wife.
 
 ## Tags:
 
-- #concept-characters
-- #liberti-characters
-- #chloride-characters
-- #mojave-orientum-characters
-- #merchant-characters
-- #dreysam
+- [[concept-characters]]
+- [[liberti-characters]]
+- [[chloride-characters]]
+- [[mojave-orientum-characters]]
+- [[merchant-characters]]
+- [[dreysam]]

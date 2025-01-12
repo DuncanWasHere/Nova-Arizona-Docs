@@ -14,8 +14,8 @@ Antoninus is currently under the direct command of [[Publius Veranus]].
 
 ## Tags:
 
-- #implemented-characters
-- #hoover-dam-rest-stop-characters
-- #legionary-characters
-- #legion-characters
-- #alaska
+- [[implemented-characters]]
+- [[hoover-dam-rest-stop-characters]]
+- [[legionary-characters]]
+- [[legion-characters]]
+- [[alaska]]

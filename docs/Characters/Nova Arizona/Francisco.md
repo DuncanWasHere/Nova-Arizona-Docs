@@ -12,8 +12,8 @@ He lives and works at the gift shop, selling renovated pre-war clothes he's coll
 
 ## Tags:
 
-- #implemented-characters
-- #merchant-characters
-- #liberti-characters
-- #elephant-hill-characters
-- #duncan
+- [[implemented-characters]]
+- [[merchant-characters]]
+- [[liberti-characters]]
+- [[elephant-hill-characters]]
+- [[duncan]]

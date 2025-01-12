@@ -14,9 +14,9 @@ Beth is partners with [[Hank]], both trying to sell a shipment of Displacer Glov
 
 ## Tags:
 
-- #implemented-characters
-- #ghoul-characters
-- #reservation-characters
-- #merchant-characters
-- #base-camp-characters
-- #arizonadev
+- [[implemented-characters]]
+- [[ghoul-characters]]
+- [[reservation-characters]]
+- [[merchant-characters]]
+- [[base-camp-characters]]
+- [[arizonadev]]

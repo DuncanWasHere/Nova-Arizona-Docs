@@ -11,9 +11,9 @@ Formerly a member of the Hangdogs - Quest to find a Legion pup which has run off
 
 ## Tags:
 
-- #implemented-characters
-- #quest-givers
-- #big-stop-characters
-- #legionary-characters
-- #legion-characters
-- #dreysam
+- [[implemented-characters]]
+- [[quest-givers]]
+- [[big-stop-characters]]
+- [[legionary-characters]]
+- [[legion-characters]]
+- [[dreysam]]

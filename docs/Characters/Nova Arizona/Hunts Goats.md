@@ -10,8 +10,8 @@ Hunts Goats is originally from [[Colorado]], and a veteran of the [[Legion-Broth
 
 ## Tags:
 
-- #implemented-characters
-- #legion-characters
-- #legionary-characters
-- #statio-characters
-- #alaska
+- [[implemented-characters]]
+- [[legion-characters]]
+- [[legionary-characters]]
+- [[statio-characters]]
+- [[alaska]]

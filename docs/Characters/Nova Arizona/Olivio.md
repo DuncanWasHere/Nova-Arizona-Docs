@@ -10,8 +10,8 @@ Olivio keeps track of slaves, precious materials, and raw stone production.
 
 ## Tags:
 
-- #concept-characters
-- #the-pond-characters
-- #legion-characters
-- #mojave-orientum-characters
-- #dreysam
+- [[concept-characters]]
+- [[the-pond-characters]]
+- [[legion-characters]]
+- [[mojave-orientum-characters]]
+- [[dreysam]]

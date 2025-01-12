@@ -12,8 +12,8 @@ Having become disillusioned with his role in the Legion, and the greater ideolog
 
 ## Tags:
 
-- #concept-characters
-- #statio-characters
-- #legionary-characters
-- #legion-characters
-- #pottosquares
+- [[concept-characters]]
+- [[statio-characters]]
+- [[legionary-characters]]
+- [[legion-characters]]
+- [[pottosquares]]

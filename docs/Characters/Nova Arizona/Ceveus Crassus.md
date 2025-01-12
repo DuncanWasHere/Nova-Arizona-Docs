@@ -12,8 +12,8 @@ Crassus has an ongoing feud with [[Scribonius Prentus]] over the status of a del
 
 ## Tags:
 
-- #implemented-characters
-- #legion-characters
-- #malpais-characters
-- #legion-administratio-characters
-- #duncan
+- [[implemented-characters]]
+- [[legion-characters]]
+- [[malpais-characters]]
+- [[legion-administratio-characters]]
+- [[duncan]]

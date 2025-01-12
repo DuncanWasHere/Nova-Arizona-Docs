@@ -10,9 +10,9 @@ Red Rivers is a [[Legionaries|Legionary]] Armicustos working at [[The Base Camp]
 
 ## Tags:
 
-- #implemented-characters
-- #legion-characters
-- #legionary-characters
-- #base-camp-characters
-- #merchant-characters
-- #dreysam
+- [[implemented-characters]]
+- [[legion-characters]]
+- [[legionary-characters]]
+- [[base-camp-characters]]
+- [[merchant-characters]]
+- [[dreysam]]

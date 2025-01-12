@@ -10,10 +10,10 @@ The youngest of the Giordano brothers. Runs the Buy + Sell at the 3-Some Caravan
 
 ## Tags:
 
-- #implemented-characters
-- #liberti-characters
-- #3-some-caravan-characters
-- #3-some-caravan-company-characters
-- #quest-givers
-- #van-buren
-- #arizonadev
+- [[implemented-characters]]
+- [[liberti-characters]]
+- [[3-some-caravan-characters]]
+- [[3-some-caravan-company-characters]]
+- [[quest-givers]]
+- [[van-buren]]
+- [[arizonadev]]

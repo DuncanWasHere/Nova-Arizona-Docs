@@ -16,7 +16,7 @@ Becca has developed a rivalry with [[Aspirant Oria]] over their competing influe
 
 ## Tags:
 
-- #implemented-characters
-- #liberti-characters
-- #newt-characters
-- #dreysam
+- [[implemented-characters]]
+- [[liberti-characters]]
+- [[newt-characters]]
+- [[dreysam]]

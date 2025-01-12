@@ -10,9 +10,9 @@ Suffered from the loss of her husband and the disappearance of her son. Her son 
 
 ## Tags:
 
-- #implemented-characters
-- #big-stop-characters
-- #merchant-characters
-- #liberti-characters
-- #quest-givers
-- #dreysam
+- [[implemented-characters]]
+- [[big-stop-characters]]
+- [[merchant-characters]]
+- [[liberti-characters]]
+- [[quest-givers]]
+- [[dreysam]]

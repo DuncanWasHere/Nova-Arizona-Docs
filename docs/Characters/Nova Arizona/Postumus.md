@@ -10,9 +10,9 @@ Postumus is working to clear the fallen rock debris after a recent cave-in. Mayb
 
 ## Tags:
 
-- #concept-characters
-- #slave-characters
-- #malpais-gold-mine-characters
-- #support-unit-hoover-characters
-- #quest-givers
-- #duncan
+- [[concept-characters]]
+- [[slave-characters]]
+- [[malpais-gold-mine-characters]]
+- [[support-unit-hoover-characters]]
+- [[quest-givers]]
+- [[duncan]]

@@ -12,8 +12,8 @@ Aggressive, dickish, former raider. Is very aggressive towards female players, i
 
 ## Tags:
 
-- #implemented-characters
-- #legion-deputy-characters
-- #dolan-springs-characters
-- #mojave-orientum-characters
-- #dreysam
+- [[implemented-characters]]
+- [[legion-deputy-characters]]
+- [[dolan-springs-characters]]
+- [[mojave-orientum-characters]]
+- [[dreysam]]

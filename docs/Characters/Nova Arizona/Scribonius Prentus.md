@@ -8,9 +8,9 @@ Scribonius Prentus is a [[Caesar's Legion|Legion]] Scribonius stationed at [[Cam
 
 ## Tags:
 
-- #implemented-characters
-- #legion-characters
-- #camp-willow-characters
-- #legion-administratio-characters
-- #quest-givers
-- #dreysam
+- [[implemented-characters]]
+- [[legion-characters]]
+- [[camp-willow-characters]]
+- [[legion-administratio-characters]]
+- [[quest-givers]]
+- [[dreysam]]

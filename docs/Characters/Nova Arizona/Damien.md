@@ -11,9 +11,9 @@ Damien is a somewhat feeble old man. His toolbox recently fell off the edge of t
 
 ## Tags:
 
-- #implemented-characters
-- #3-some-caravan-characters
-- #3-some-caravan-company-characters
-- #liberti-characters
-- #quest-givers
-- #arizonadev
+- [[implemented-characters]]
+- [[3-some-caravan-characters]]
+- [[3-some-caravan-company-characters]]
+- [[liberti-characters]]
+- [[quest-givers]]
+- [[arizonadev]]

@@ -10,8 +10,8 @@ Unknown right now. Legionary OC?
 
 ## Tags:
 
-- #concept-characters
-- #west-rim-gas-characters
-- #legionary-characters
-- #legion-characters
-- #dreysam
+- [[concept-characters]]
+- [[west-rim-gas-characters]]
+- [[legionary-characters]]
+- [[legion-characters]]
+- [[dreysam]]

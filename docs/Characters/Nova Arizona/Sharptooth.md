@@ -10,8 +10,8 @@ Originally from [[New Mexico]]. Was posted to the quiet front of [[Dolan Springs
 
 ## Tags:
 
-- #implemented-characters
-- #atlas-tower-characters
-- #legionary-characters
-- #legion-characters
-- #dreysam
+- [[implemented-characters]]
+- [[atlas-tower-characters]]
+- [[legionary-characters]]
+- [[legion-characters]]
+- [[dreysam]]

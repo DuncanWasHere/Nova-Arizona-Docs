@@ -12,10 +12,10 @@ Ricamore despises war and bloodshed, yet still maintains a good under-the-table 
 
 ## Tags:
 
-- #implemented-characters
-- #ghoul-characters
-- #liberti-characters
-- #elephant-hill-characters
-- #merchant-characters
-- #quest-givers
-- #duncan
+- [[implemented-characters]]
+- [[ghoul-characters]]
+- [[liberti-characters]]
+- [[elephant-hill-characters]]
+- [[merchant-characters]]
+- [[quest-givers]]
+- [[duncan]]
