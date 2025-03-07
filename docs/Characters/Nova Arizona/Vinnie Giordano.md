@@ -6,7 +6,7 @@ The youngest of the Giordano brothers. Runs the Buy + Sell at the 3-Some Caravan
 
 ## Quests:
 
-- Involved in [[3-O'Clock-Blues]]
+- Involved in [[3 O'Clock Blues]]
 
 ## Tags:
 

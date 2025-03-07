@@ -4,9 +4,9 @@ Red Rivers is a [[Legionaries|Legionary]] Armicustos working at [[The Base Camp]
 
 ## Quests:
 
-- Involved in [[Something-Stupid]]
-- Involved in [[Is-You-or-Is-You-Ain't]]
-- Involved in [[Praise-the-Lord-and-Pass-the-Ammunition]]
+- Involved in [[Something Stupid]]
+- Involved in [[Is You or Is You Ain't]]
+- Involved in [[Praise the Lord and Pass the Ammunition]]
 
 ## Tags:
 

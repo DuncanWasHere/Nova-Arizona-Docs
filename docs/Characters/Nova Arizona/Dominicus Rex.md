@@ -8,8 +8,8 @@ Dominicus Rex is originally from the [[Tan Caps|Tan Cap]] tribe.
 
 ## Quests:
 
-- Involved in [[A-Little-Birdie-Told-Me]]
-- Involved in [[There'll-Be-No-Next-Time]]
+- Involved in [[A Little Birdie Told Me]]
+- Involved in [[There'll Be No Next Time]]
 
 ## Tags:
 

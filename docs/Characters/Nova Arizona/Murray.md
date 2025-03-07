@@ -6,9 +6,9 @@ Murray is a hippie-type. Vaguely ideological, but more hedonist. Legitimately be
 
 ## Quests:
 
-- Involved in [[I-Have-Sinned]]
-- Involved in [[It's-Now-or-Never]]
-- Involved in [[Hatchet-Man]]
+- Involved in [[I Have Sinned]]
+- Involved in [[It's Now or Never]]
+- Involved in [[Hatchet Man]]
 
 ## Tags:
 

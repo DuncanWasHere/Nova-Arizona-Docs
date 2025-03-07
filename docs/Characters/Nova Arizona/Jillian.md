@@ -6,8 +6,8 @@ Jillian's skills are primarily in tinkering with tech. She holds a grudge agains
 
 ## Quests:
 
-- Involved in [[Unchain-My-Heart]]
-- Involved in [[Count-Every-Star]]
+- Involved in [[Unchain My Heart]]
+- Involved in [[Count Every Star]]
 
 ## Tags:
 

@@ -6,9 +6,9 @@ Second legate of the Legion. Involved in a campaign in Sedona, for he earned his
 
 ## Quests:
 
-- Gives [[Why-Do-Things-Happen-to-Me]]
-- Involved in [[It's-Bad-For-Me]]
-- Involved in [[There'll-Be-No-Next-Time]]
+- Gives [[Why Do Things Happen to Me]]
+- Involved in [[It's Bad For Me]]
+- Involved in [[There'll Be No Next Time]]
 
 ## Tags:
 

@@ -6,8 +6,8 @@ Finturus is a by-the-book Legionary, and veteran of numerous campaigns of Arizon
 
 ## Quests:
 
-- Gives [[Keepin'-Out-of-Mischief-Now]]
-- Involved in [[Something-Stupid]]
+- Gives [[Keepin' Out of Mischief Now]]
+- Involved in [[Something Stupid]]
 
 ## Tags:
 

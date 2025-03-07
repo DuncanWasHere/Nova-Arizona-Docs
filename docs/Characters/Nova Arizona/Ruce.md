@@ -6,7 +6,7 @@ Former drug dealer. Works as the main gate guard. Straight-laced, anti-ideologic
 
 ## Quests:
 
-- Involved in [[Hatchet-Man]]
+- Involved in [[Hatchet Man]]
 
 ## Tags:
 

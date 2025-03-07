@@ -6,8 +6,8 @@ Sid is an engineer and notorious ex-chem addict. Feels guilty for what he did to
 
 ## Quests:
 
-- Involved in [[Unchain-My-Heart]]
-- Involved in [[Count-Every-Star]]
+- Involved in [[Unchain My Heart]]
+- Involved in [[Count Every Star]]
 
 ## Tags:
 

@@ -6,10 +6,10 @@ Was a medic and an idealist. The failure of the NCR to advance past Big Stop ang
 
 ## Quests:
 
-- Involved in [[It's-Now-or-Never]]
-- Involved in [[Hatchet-Man]]
-- Gives [[Where-the-Turf-Meets-the-Surf]]
-- Involved in [[Ladder-of-Success]]
+- Involved in [[It's Now or Never]]
+- Involved in [[Hatchet Man]]
+- Gives [[Where the Turf Meets the Surf]]
+- Involved in [[Ladder of Success]]
 
 ## Tags:
 

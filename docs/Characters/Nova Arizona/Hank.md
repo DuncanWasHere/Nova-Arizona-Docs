@@ -8,9 +8,9 @@ Hank is partners with [[Beth]], both trying to sell a shipment of Displacer Glov
 
 ## Quests:
 
-- Gives [[Praise-the-Lord-and-Pass-the-Ammunition]]
-- Involved in [[Something-Stupid]]
-- Involved in [[Keepin'-Out-of-Mischief-Now]]
+- Gives [[Praise the Lord and Pass the Ammunition]]
+- Involved in [[Something Stupid]]
+- Involved in [[Keepin' Out of Mischief Now]]
 
 ## Tags:
 

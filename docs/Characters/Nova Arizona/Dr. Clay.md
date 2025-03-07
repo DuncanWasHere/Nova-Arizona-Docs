@@ -6,9 +6,9 @@ Dr. Clay is one of the founding [[Tall Pines]] who first settled around the trad
 
 ## Quests:
 
-- Gives [[Walkin'-After-Midnight]]
-- Involved in [[Keepin'-Out-of-Mischief-Now]]
-- Involved in [[Wrong-Lake-to-Catch-a-Fish]]
+- Gives [[Walkin' After Midnight]]
+- Involved in [[Keepin' Out of Mischief Now]]
+- Involved in [[Wrong Lake to Catch a Fish]]
 
 ## Tags:
 

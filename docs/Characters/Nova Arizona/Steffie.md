@@ -8,8 +8,8 @@ Her mother, [[Clarice]], is imprisoned at the [[Solitare Gas Station]].
 
 ## Quests:
 
-- Involved in [[But-You-Can't-Come-In]]
-- Involved in [[Our-Love-Will-Never-Go]]
+- Involved in [[But You Can't Come In]]
+- Involved in [[Our Love Will Never Go]]
 
 ## Tags:
 

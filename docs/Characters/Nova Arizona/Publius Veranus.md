@@ -6,7 +6,7 @@ Veranus is Suboptio temporalis to [[Optio Nerva]] at the Legate’s Camp. Missed
 
 ## Quests:
 
-- Involved in [[There's-a-Man-at-the-Door]]
+- Involved in [[There's a Man at the Door]]
 
 ## Tags:
 

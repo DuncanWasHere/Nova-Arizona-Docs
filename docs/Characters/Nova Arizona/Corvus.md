@@ -8,7 +8,7 @@ Despite his stubborn loyalty to the [[Caesar's Legion|Legion]], Corvus is assume
 
 ## Quests:
 
-- Involved in [[Hatchet-Man]]
+- Involved in [[Hatchet Man]]
 
 ## Tags:
 

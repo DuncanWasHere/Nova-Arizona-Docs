@@ -8,9 +8,9 @@ Clark sells general goods.
 
 ## Quests:
 
-- Involved in [[Town-Without-Pity]]
-- Involved in [[King-of-the-Road]]
-- Involved in [[The-Payback]]
+- Involved in [[Town Without Pity]]
+- Involved in [[King of the Road]]
+- Involved in [[The Payback]]
 
 ## Tags:
 

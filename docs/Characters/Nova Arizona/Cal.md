@@ -8,9 +8,9 @@ Cal is a Follower, a doctor, a Ranger, a hero, a coward, an ambassador, a traine
 
 ## Quests:
 
-- Gives [[I-Have-Sinned]]
-- Involved in [[It's-Now-or-Never]]
-- Involved in [[Hatchet-Man]]
+- Gives [[I Have Sinned]]
+- Involved in [[It's Now or Never]]
+- Involved in [[Hatchet Man]]
 
 ## Tags:
 

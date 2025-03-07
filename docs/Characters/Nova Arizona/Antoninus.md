@@ -10,7 +10,7 @@ Antoninus is currently under the direct command of [[Publius Veranus]].
 
 ## Quests:
 
-- Involved in [[There's-a-Man-at-the-Door]]
+- Involved in [[There's a Man at the Door]]
 
 ## Tags:
 

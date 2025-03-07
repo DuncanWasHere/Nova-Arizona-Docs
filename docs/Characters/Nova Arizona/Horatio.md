@@ -7,7 +7,7 @@ Horatio works in the Office of Logistics, a branch of the [[Administratio]].
 ## Quests:
 
 - Gives [[Unnamed)-Chainway-Foreman-Letter-Delivery-Quest](../../Quests/(Unnamed|(Unnamed)-Chainway-Foreman-Letter-Delivery-Quest]]-Chainway-Foreman-Letter-Delivery-Quest.md)
-- Involved in [[A-Little-Birdie-Told-Me]]
+- Involved in [[A Little Birdie Told Me]]
 
 ## Tags:
 

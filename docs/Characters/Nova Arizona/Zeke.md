@@ -6,8 +6,8 @@ Generally apolitical.
 
 ## Quests:
 
-- Gives [[Let-the-Four-Winds-Blow]]
-- Involved in [[Bat-Country]]
+- Gives [[Let the Four Winds Blow]]
+- Involved in [[Bat Country]]
 - Involved in [[Taxman]]
 
 ## Tags:

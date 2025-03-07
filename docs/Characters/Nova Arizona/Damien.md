@@ -6,8 +6,8 @@ Damien is a somewhat feeble old man. His toolbox recently fell off the edge of t
 
 ## Quests:
 
-- Gives [[All-Shook-Up]]
-- Involved in [[3-O'Clock-Blues]]
+- Gives [[All Shook Up]]
+- Involved in [[3 O'Clock Blues]]
 
 ## Tags:
 

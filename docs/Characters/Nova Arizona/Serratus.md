@@ -6,7 +6,7 @@ He deserted his post at the [[Malpais Legionary Camp]] to be closer to the front
 
 ## Quests:
 
-- Involved in [[They're-Hangin'-Me-Tonight]]
+- Involved in [[They're Hangin' Me Tonight]]
 
 ## Tags:
 

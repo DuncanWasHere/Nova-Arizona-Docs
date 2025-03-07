@@ -6,7 +6,7 @@ He seduced Harlow's wife.
 
 ## Quests:
 
-- Involved in [[Lipstick-on-Your-Collar]]
+- Involved in [[Lipstick on Your Collar]]
 
 ## Tags:
 

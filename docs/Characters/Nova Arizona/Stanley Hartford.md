@@ -4,7 +4,7 @@ Stanley Hartford is a Radio New Vegas reporter currently visiting the [[Malpais 
  
 ## Quests:
 
-- Gives [[A-Little-Birdie-Told-Me]]
+- Gives [[A Little Birdie Told Me]]
 
 ## Tags:
 

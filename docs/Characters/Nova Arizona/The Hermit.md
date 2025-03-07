@@ -6,9 +6,9 @@ In hiding. His son joined the [[Desert Rangers]], and they parted in anger. Sher
 
 ## Quests:
 
-- Gives [[Ivory-Tower]]
-- Involved in [[Hatchet-Man]]
-- Involved in [[It's-Now-or-Never]]
+- Gives [[Ivory Tower]]
+- Involved in [[Hatchet Man]]
+- Involved in [[It's Now or Never]]
 
 ## Tags:
 

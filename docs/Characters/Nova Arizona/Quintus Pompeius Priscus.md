@@ -6,7 +6,7 @@ Priscus hates his gun and wants to trade for a better one.
 
 ## Quests:
 
-- Gives [[Fair-Trade]]
+- Gives [[Fair Trade]]
 
 ## Tags:
 

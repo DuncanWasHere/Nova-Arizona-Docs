@@ -6,8 +6,8 @@ A devout maiden of the Cult of Mars, hoping to ascend to the Priestessdom to get
 
 ## Quests:
 
-- Gives [[Warrior's-Rest]]
-- Involved in [[The-Night-Has-a-Thousand-Eyes]]
+- Gives [[Warrior's Rest]]
+- Involved in [[The Night Has a Thousand Eyes]]
 
 ## Tags:
 

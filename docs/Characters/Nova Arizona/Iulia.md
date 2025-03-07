@@ -6,8 +6,8 @@ Iulia is an older slave woman who is secretly extremely spiteful towards [[Flemu
 
 ## Quests:
 
-- Gives [[Something-Stupid]]
-- Involved in [[Keepin'-Out-of-Mischief-Now]]
+- Gives [[Something Stupid]]
+- Involved in [[Keepin' Out of Mischief Now]]
 
 ## Tags:
 

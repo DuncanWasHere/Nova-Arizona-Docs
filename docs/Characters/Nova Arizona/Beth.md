@@ -8,9 +8,9 @@ Beth is partners with [[Hank]], both trying to sell a shipment of Displacer Glov
 
 ## Quests:
 
-- Involved in [[Praise-the-Lord-and-Pass-the-Ammunition]]
-- Involved in [[Something-Stupid]]
-- Involved in [[Keepin'-Out-of-Mischief-Now]]
+- Involved in [[Praise the Lord and Pass the Ammunition]]
+- Involved in [[Something Stupid]]
+- Involved in [[Keepin' Out of Mischief Now]]
 
 ## Tags:
 

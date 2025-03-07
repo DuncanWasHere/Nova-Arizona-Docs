@@ -6,7 +6,7 @@ Dalton studied at the University of Arizona and was awarded an MD in medicine an
 
 ## Quests:
 
-- Involved in [[The-Master's-Call]]
+- Involved in [[The Master's Call]]
 
 ## Tags:
 

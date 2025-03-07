@@ -6,7 +6,7 @@ Paul has an obscure past but involved in the [[Cleansing-of-Flagstaff]]. Attempt
 
 ## Quests:
 
-- Involved in [[Ivory-Tower]]
+- Involved in [[Ivory Tower]]
 
 ## Tags:
 

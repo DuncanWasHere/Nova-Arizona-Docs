@@ -5,9 +5,9 @@ Rae works as [[Dr. Clay]]’s assistant/receptionist.
 
 ## Quests:
 
-- Involved in [[Walkin'-After-Midnight]]
-- Involved in [[Keepin'-Out-of-Mischief-Now]]
-- Involved in [[Wrong-Lake-to-Catch-a-Fish]]
+- Involved in [[Walkin' After Midnight]]
+- Involved in [[Keepin' Out of Mischief Now]]
+- Involved in [[Wrong Lake to Catch a Fish]]
 
 ## Tags:
 

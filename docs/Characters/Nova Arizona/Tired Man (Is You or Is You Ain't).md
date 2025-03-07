@@ -6,7 +6,7 @@ He is a Ranger(?)
 
 ## Quests:
 
-- Involved in [[Is-You-or-Is-You-Ain't]]
+- Involved in [[Is You or Is You Ain't]]
 
 ## Tags:
 

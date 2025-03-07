@@ -8,7 +8,7 @@ Having become disillusioned with his role in the Legion, and the greater ideolog
 
 ## Quests:
 
-- Involved in [[The-Little-Green-Valley]]
+- Involved in [[The Little Green Valley]]
 
 ## Tags:
 

@@ -8,7 +8,7 @@ Ricamore despises war and bloodshed, yet still maintains a good under-the-table 
 
 ## Quests:
 
-- Gives [[White-Lightning]]
+- Gives [[White Lightning]]
 
 ## Tags:
 

@@ -6,7 +6,7 @@ Caro is a thoughtful man blinded by fanaticism.
 
 ## Quests:
 
-- Gives [[Run-Red-Run]]
+- Gives [[Run Red Run]]
 
 ## Tags:
 

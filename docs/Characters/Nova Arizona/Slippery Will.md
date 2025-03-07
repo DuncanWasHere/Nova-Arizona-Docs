@@ -6,7 +6,7 @@ An old prospector wanting help with recovering a stash of silver from [[Big Spar
 
 ## Quests:
 
-- Gives [[Subterranean-Homesick-Blues]]
+- Gives [[Subterranean Homesick Blues]]
 
 ## Tags:
 

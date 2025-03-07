@@ -6,7 +6,7 @@ Ernest may have collaborated with [[New California Republic Rangers|NCR Rangers]
 
 ## Quests:
 
-- Involved in [[Town-Without-Pity]]
+- Involved in [[Town Without Pity]]
 
 ## Tags:
 

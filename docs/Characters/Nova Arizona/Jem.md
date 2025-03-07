@@ -6,9 +6,9 @@ Early 30s, oddly chipper and upbeat merchant. Came down to Nevada from ??? looki
 
 ## Quests:
 
-- Gives [[Town-Without-Pity]]
-- Involved in [[The-Payback]]
-- Involved in [[Running-Gun]]
+- Gives [[Town Without Pity]]
+- Involved in [[The Payback]]
+- Involved in [[Running Gun]]
 
 ## Tags:
 

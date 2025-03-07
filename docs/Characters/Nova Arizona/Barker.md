@@ -14,9 +14,9 @@ Brewing resentment stemming from disagreements over the risks associated with pa
 
 ## Quests:
 
-- Involved in [[It's-Now-or-Never]]
-- Involved in [[Hatchet-Man]]
-- Involved in [[They're-Hangin'-Me-Tonight]]
+- Involved in [[It's Now or Never]]
+- Involved in [[Hatchet Man]]
+- Involved in [[They're Hangin' Me Tonight]]
 
 ## Tags:
 

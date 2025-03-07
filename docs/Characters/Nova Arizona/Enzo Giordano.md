@@ -6,7 +6,7 @@ The eldest of the Giordano brothers, Enzo is a straightforward and honorable bus
 
 ## Quests:
 
-- Gives [[3-O'Clock-Blues]]
+- Gives [[3 O'Clock Blues]]
 
 ## Tags:
 

@@ -6,10 +6,10 @@ Luke represents the main opposition faction in the [[Mojave Orientum]] sharehold
 
 ## Quests:
 
-- Gives [[Ladder-of-Success]]
+- Gives [[Ladder of Success]]
 - Involved in [[Taxman]]
-- Involved in [[Where-the-Turf-Meets-the-Surf]]
-- Involved in [[Setting-the-Woods-on-Fire]]
+- Involved in [[Where the Turf Meets the Surf]]
+- Involved in [[Setting the Woods on Fire]]
 
 ## Tags:
 

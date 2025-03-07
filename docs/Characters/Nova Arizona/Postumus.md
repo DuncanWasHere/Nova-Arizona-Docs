@@ -6,7 +6,7 @@ Postumus is working to clear the fallen rock debris after a recent cave-in. Mayb
 
 ## Quests:
 
-- Gives [[Sixteen-Tons]]
+- Gives [[Sixteen Tons]]
 
 ## Tags:
 

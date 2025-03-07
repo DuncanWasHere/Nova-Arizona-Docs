@@ -6,9 +6,9 @@ Legionary boy in training. Doesn’t know much about the outside world but is to
 
 ## Quests:
 
-- Involved in [[Something-Stupid]]
-- Involved in [[Keepin'-Out-of-Mischief-Now]]
-- Involved in [[Hard-Crackers-Come-Again-No-More]]
+- Involved in [[Something Stupid]]
+- Involved in [[Keepin' Out of Mischief Now]]
+- Involved in [[Hard Crackers Come Again No More]]
 
 ## Tags:
 

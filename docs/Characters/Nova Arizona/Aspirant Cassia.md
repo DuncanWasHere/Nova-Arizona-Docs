@@ -8,8 +8,8 @@ Cassia struggles with maintaining her cover and betrayal of the Hippocratic Oath
 
 ## Quests:
 
-- Gives [[Don't-Call-Me-Boy]]
-- Involved in [[Town-Without-Pity]]
+- Gives [[Don't Call Me Boy]]
+- Involved in [[Town Without Pity]]
 
 ## Tags:
 

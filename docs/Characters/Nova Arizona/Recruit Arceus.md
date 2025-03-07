@@ -6,8 +6,8 @@
 
 ## Quests:
 
-- Involved in [[Something-Stupid]]
-- Involved in [[Keepin'-Out-of-Mischief-Now]]
+- Involved in [[Something Stupid]]
+- Involved in [[Keepin' Out of Mischief Now]]
 
 ## Tags:
 

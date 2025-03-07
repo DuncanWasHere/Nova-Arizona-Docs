@@ -6,7 +6,7 @@ He is trying to cross [[Hoover Dam]] due to the persecution he faces from the Le
 
 ## Quests:
 
-- Involved in [[But-You-Can't-Come-In]]
+- Involved in [[But You Can't Come In]]
 
 ## Tags:
 

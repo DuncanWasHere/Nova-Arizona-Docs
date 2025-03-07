@@ -1,12 +1,12 @@
 ## Bio:
 
-Marty is a ghoul chemist from [[Nova-Arizona-Docs/docs/Factions/Lore/The Reservation]], now working for the [[Tipton Gang]] and hiding out in [[Mount Tipton Cave]] in 2281.
+Marty is a ghoul chemist from [[Nova-Arizona-Docs/docs/Factions/Lore/The Reservation|The Reservation]], now working for the [[Tipton Gang]] and hiding out in [[Mount Tipton Cave]] in 2281.
 
 Marty does not initially appear in-game. Searching for a distributor for Smooch, a highly potent drug.
 
 ## Quests:
 
-- Involved in [[Where-the-Turf-Meets-the-Surf]]
+- Involved in [[Where the Turf Meets the Surf]]
 
 ## Tags:
 

@@ -6,7 +6,7 @@ Takes inventory of slaves and negotiates sales.
 
 ## Quests:
 
-- Involved in [[A-Little-Birdie-Told-Me]]
+- Involved in [[A Little Birdie Told Me]]
 
 ## Tags:
 

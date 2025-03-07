@@ -6,7 +6,7 @@ Her company sells energy weapons and high-tech junk. They were forced into Legio
 
 ## Quests:
 
-- Involved in [[Here's-to-the-Losers]]
+- Involved in [[Here's to the Losers]]
 
 ## Tags:
 

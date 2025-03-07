@@ -16,9 +16,9 @@ Benjamin was recently wounded by [[Veteran Autonous]] and has since been stuck i
 
 ## Quests:
 
-- Involved in [[I-Have-Sinned]]
-- Involved in [[It's-Now-or-Never]]
-- Involved in [[Hatchet-Man]]
+- Involved in [[I Have Sinned]]
+- Involved in [[It's Now or Never]]
+- Involved in [[Hatchet Man]]
 
 ## Tags:
 

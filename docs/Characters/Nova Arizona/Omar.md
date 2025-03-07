@@ -6,9 +6,9 @@ He provides a negative view of the NCR because they won’t let him cross the da
 
 ## Quests:
 
-- Gives [[There's-a-Man-at-the-Door]]
-- Gives [[But-You-Can't-Come-In]]
-- Involved in [[Barbarians-at-the-Gates]]
+- Gives [[There's a Man at the Door]]
+- Gives [[But You Can't Come In]]
+- Involved in [[Barbarians at the Gates]]
 
 ## Tags:
 

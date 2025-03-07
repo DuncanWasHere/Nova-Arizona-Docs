@@ -6,7 +6,7 @@ Suffered from the loss of her husband and the disappearance of her son. Her son 
 
 ## Quests:
 
-- Gives [[Nobody-Knows-You-When-You're-Down-and-Out]]
+- Gives [[Nobody Knows You When You're Down and Out]]
 
 ## Tags:
 

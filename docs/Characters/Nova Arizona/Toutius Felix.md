@@ -2,13 +2,13 @@
 
 Toutius Felix is a [[Legionaries|Legionary]] stationed at [[Dolan Springs]] in 2281.
 
-Felix is down bad for [[Maiden Prudence]]. He is stationed at Dolan Springs as part of [[Decanus Quintus]]’s contubernium.
+Felix is down bad for [[Maiden Soleia]]. He is stationed at Dolan Springs as part of [[Decanus Quintus]]’s contubernium.
 
 ## Quests:
 
-- Gives [[Lay-Maiden-Lay]]
-- Involved in [[Subterranean-Homesick-Blues]]
-- Involved in [[You'se-a-Viper]]
+- Gives [[Lay Maiden Lay]]
+- Involved in [[Subterranean Homesick Blues]]
+- Involved in [[You'se a Viper]]
 
 ## Tags:
 

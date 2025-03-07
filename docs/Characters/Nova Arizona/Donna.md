@@ -4,7 +4,7 @@ Donna is a female-identifying super mutant working as a bodyguard for [[Milia]] 
 
 ## Quests:
 
-- Involved in [[Here's-to-the-Losers]]
+- Involved in [[Here's to the Losers]]
 
 ## Tags:
 

@@ -6,7 +6,7 @@ Cruel, cunning hick from Sac-Town. Gleefully participated in the Mojave Pacifica
 
 ## Quests:
 
-- Gives [[Get-a-Little-Dirt-on-Your-Hands]]
+- Gives [[Get a Little Dirt on Your Hands]]
 
 ## Tags:
 

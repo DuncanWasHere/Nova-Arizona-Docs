@@ -6,10 +6,10 @@ Proprietor of the Dolan Springs Trading Post. Gonzo Hunter S. Thompson-type.
 
 ## Quests:
 
-- Gives [[Bat-Country]]
+- Gives [[Bat Country]]
 - Involved in [[Taxman]]
-- Involved in [[Ladder-of-Success]]
-- Involved in [[Setting-the-Woods-on-Fire]]
+- Involved in [[Ladder of Success]]
+- Involved in [[Setting the Woods on Fire]]
 
 ## Tags:
 

@@ -6,7 +6,7 @@ Hunts Goats is originally from [[Colorado]], and a veteran of the [[Legion-Broth
 
 ## Quests:
 
-- Involved in [[Keepin'-Out-of-Mischief-Now]]
+- Involved in [[Keepin' Out of Mischief Now]]
 
 ## Tags:
 

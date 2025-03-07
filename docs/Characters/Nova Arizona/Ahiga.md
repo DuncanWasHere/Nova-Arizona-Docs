@@ -8,10 +8,10 @@ Ahiga recently took part in [[Dominicus Rex|Dominicus Rex's]] execution spree fo
 
 ## Quests:
 
-- Gives [[Is-You-or-Is-You-Ain't]]
-- Gives [[Guided-Missiles]]
-- Involved in [[Town-Without-Pity]]
-- Involved in [[Hatchet-Man]]
+- Gives [[Is You or Is You Ain't]]
+- Gives [[Guided Missiles]]
+- Involved in [[Town Without Pity]]
+- Involved in [[Hatchet Man]]
 
 ## Tags:
 

@@ -8,7 +8,7 @@ Cyn is determined and pragmatic.
 
 ## Quests:
 
-- Involved in [[The-Night-Has-a-Thousand-Eyes]]
+- Involved in [[The Night Has a Thousand Eyes]]
 
 ## Tags:
 

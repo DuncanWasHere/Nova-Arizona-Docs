@@ -8,7 +8,7 @@ Graffiti artist. Does not fully understand the threat that the Legion poses to N
 
 ## Quests:
 
-- Involved in [[Keepin'-Out-of-Mischief-Now]]
+- Involved in [[Keepin' Out of Mischief Now]]
 
 ## Tags:
 

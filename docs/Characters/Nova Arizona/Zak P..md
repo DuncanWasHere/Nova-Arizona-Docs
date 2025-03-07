@@ -6,8 +6,8 @@ All of Zak's possessions have been stripped from his corpse, save for his custom
 
 ## Quests:
 
-- Involved in [[Nobody-Knows-You-When-You're-Down-and-Out]]
-- Involved in [[Bat-Country]]
+- Involved in [[Nobody Knows You When You're Down and Out]]
+- Involved in [[Bat Country]]
 
 ## Tags:
 

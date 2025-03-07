@@ -6,7 +6,7 @@ Clarice is the mother of [[Steffie]].
 
 ## Quests:
 
-- Gives [[Our-Love-Will-Never-Go]]
+- Gives [[Our Love Will Never Go]]
 
 ## Tags:
 

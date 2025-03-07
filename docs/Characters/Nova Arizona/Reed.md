@@ -12,7 +12,7 @@ Reed shares a room in the [[Junction Motel]] with [[Ernest]].
 
 ## Quests:
 
-- Involved in [[Town-Without-Pity]]
+- Involved in [[Town Without Pity]]
 
 ## Tags:
 

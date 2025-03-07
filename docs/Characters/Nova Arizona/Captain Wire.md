@@ -8,9 +8,9 @@ Wire is a xenophobic bigot from [[Vault City]] who interpreted orders to stop sa
 
 ## Quests:
 
-- Gives [[Barbarians-at-the-Gates]]
-- Involved in [[There's-a-Man-at-the-Door]]
-- Involved in [[But-You-Can't-Come-In]]
+- Gives [[Barbarians at the Gates]]
+- Involved in [[There's a Man at the Door]]
+- Involved in [[But You Can't Come In]]
 
 ## Tags:
 

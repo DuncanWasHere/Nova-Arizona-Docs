@@ -6,9 +6,9 @@ Serwa is the daughter of [[Benjamin]]. Very idealistic. Wants to fight the Legio
 
 ## Quests:
 
-- Involved in [[I-Have-Sinned]]
-- Involved in [[It's-Now-or-Never]]
-- Involved in [[Hatchet-Man]]
+- Involved in [[I Have Sinned]]
+- Involved in [[It's Now or Never]]
+- Involved in [[Hatchet Man]]
 
 ## Tags:
 

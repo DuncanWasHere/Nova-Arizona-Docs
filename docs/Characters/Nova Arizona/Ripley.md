@@ -6,9 +6,9 @@ Pre-war professor, now a ghoul. Made bombs for the Desert Rangers in the 2260s. 
 
 ## Quests:
 
-- Involved in [[I-Have-Sinned]]
-- Involved in [[It's-Now-or-Never]]
-- Involved in [[Hatchet-Man]]
+- Involved in [[I Have Sinned]]
+- Involved in [[It's Now or Never]]
+- Involved in [[Hatchet Man]]
 
 ## Tags:
 

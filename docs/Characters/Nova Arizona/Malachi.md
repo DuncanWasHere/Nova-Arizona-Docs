@@ -6,8 +6,8 @@ Self-made businessman and head of a mysterious slavery ring based out of Two Sun
 
 ## Quests:
 
-- Involved in [[A-Little-Birdie-Told-Me]]
-- Involved in [[Why-Do-Things-Happen-to-Me]]
+- Involved in [[A Little Birdie Told Me]]
+- Involved in [[Why Do Things Happen to Me]]
 
 ## Tags:
 

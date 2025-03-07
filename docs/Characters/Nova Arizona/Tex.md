@@ -6,9 +6,9 @@ Religious trader from [[Colorado]] who viewed the arrival of Caesar’s Legion a
 
 ## Quests:
 
-- Gives [[The-Epimethean-Torch]]
-- Involved in [[Ladder-of-Success]]
-- Involved in [[Setting-the-Woods-on-Fire]]
+- Gives [[The Epimethean Torch]]
+- Involved in [[Ladder of Success]]
+- Involved in [[Setting the Woods on Fire]]
 
 ## Tags:
 

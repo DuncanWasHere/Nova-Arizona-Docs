@@ -7,11 +7,11 @@ Intense woman in her 40s. Deeply devoted to Mars and very religious. Privately p
 Despises the governance and society of the [[Mojave Orientum]] province. Particularly hates [[Proconsul Aristophontes]] for embracing [[Profligates|Profligate]] ideals.
 ## Quests:
 
-- Gives [[Setting-the-Woods-on-Fire]]
-- Gives [[Just-Say-Non]]
-- Involved in [[Ladder-of-Success]]
-- involved in [[Lay-Maiden-Lay]]
-- Involved in [[The-Night-Has-a-Thousand-Eyes]]
+- Gives [[Setting the Woods on Fire]]
+- Gives [[Just Say Non]]
+- Involved in [[Ladder of Success]]
+- involved in [[Lay Maiden Lay]]
+- Involved in [[The Night Has a Thousand Eyes]]
 
 ## Tags:
 

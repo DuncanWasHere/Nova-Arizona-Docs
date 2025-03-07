@@ -4,9 +4,9 @@ Decanus Quintus is a [[Legionaries|Legionary]] Decanus in command of a contubern
 
 ## Quests:
 
-- Involved in [[Subterranean-Homesick-Blues]]
-- Involved in [[You'se-a-Viper]]
-- Involved in [[Lay-Maiden-Lay]]
+- Involved in [[Subterranean Homesick Blues]]
+- Involved in [[You'se a Viper]]
+- Involved in [[Lay Maiden Lay]]
 
 ## Tags:
 

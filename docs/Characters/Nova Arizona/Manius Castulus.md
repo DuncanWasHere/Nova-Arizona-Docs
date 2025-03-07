@@ -4,7 +4,7 @@ Manius Castulus is a [[Legionaries|Legionary]] Slavemaster overseeing the [[Malp
 
 ## Quests:
 
-- Involved in [[Sixteen-Tons]]
+- Involved in [[Sixteen Tons]]
 
 ## Tags:
 

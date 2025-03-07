@@ -4,7 +4,7 @@ Scribonius Prentus is a [[Caesar's Legion|Legion]] Scribonius stationed at [[Cam
 
 ## Quests:
 
-- Gives [[If-I-Had-a-Quarter]]
+- Gives [[If I Had a Quarter]]
 
 ## Tags:
 

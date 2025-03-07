@@ -6,9 +6,9 @@ When the [[Mojave Orientum]] province was first chartered, Julius entered a cont
 
 ## Quests:
 
-- Involved in [[Ladder-of-Success]]
-- Involved in [[The-Payback]]
-- Involved in [[Setting-the-Woods-on-Fire]]
+- Involved in [[Ladder of Success]]
+- Involved in [[The Payback]]
+- Involved in [[Setting the Woods on Fire]]
 
 ## Tags:
 

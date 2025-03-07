@@ -7,8 +7,8 @@ A lifetime of service in the Legion’s scribonii has led to him being rewarded 
 ## Quests:
 
 - Gives [[Taxman]]
-- Involved in [[Ladder-of-Success]]
-- Involved in [[Setting-the-Woods-on-Fire]]
+- Involved in [[Ladder of Success]]
+- Involved in [[Setting the Woods on Fire]]
 
 ## Tags:
 

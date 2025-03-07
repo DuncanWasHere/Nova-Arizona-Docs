@@ -10,9 +10,9 @@ Becca has developed a rivalry with [[Aspirant Oria]] over their competing influe
 
 ## Quests:
 
-- Gives [[Wrong-Lake-to-Catch-a-Fish]]
-- Involved in [[Keepin'-Out-of-Mischief-Now]]
-- Involved in [[Something-Stupid]]
+- Gives [[Wrong Lake to Catch a Fish]]
+- Involved in [[Keepin' Out of Mischief Now]]
+- Involved in [[Something Stupid]]
 
 ## Tags:
 

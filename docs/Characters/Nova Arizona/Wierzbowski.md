@@ -6,10 +6,10 @@ Cook-Cook if he found Jesus. A particularly vile raider who was inducted into th
 
 ## Quests:
 
-- Gives [[It's-Now-or-Never]]
-- Gives [[They-Go-Wild-Over-Us]]
-- Involved in [[I-Have-Sinned]]
-- Involved in [[Hatchet-Man]]
+- Gives [[It's Now or Never]]
+- Gives [[They Go Wild Over Us]]
+- Involved in [[I Have Sinned]]
+- Involved in [[Hatchet Man]]
 
 ## Tags:
 

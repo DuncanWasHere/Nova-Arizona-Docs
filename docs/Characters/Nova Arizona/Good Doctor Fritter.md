@@ -4,7 +4,7 @@ Good Doctor Fritter is a traveling snake oil salesman and huckster located at [[
 
 ## Quests:
 
-- Involved in [[Lay-Maiden-Lay]]
+- Involved in [[Lay Maiden Lay]]
 
 ## Tags:
 

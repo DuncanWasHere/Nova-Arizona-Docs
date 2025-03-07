@@ -7,7 +7,7 @@ Nunez was formerly a member of the [[Atomic Workers of New California]] when he 
 ## Quests:
 
 - Gives [[Jambalaya]]
-- Involved in [[3-O'Clock-Blues]]
+- Involved in [[3 O'Clock Blues]]
 
 ## Tags:
 

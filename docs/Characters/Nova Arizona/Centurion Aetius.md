@@ -8,8 +8,8 @@ Aetius is one of the few actual Legionaries in town. He obviously harbors deep r
 
 ## Quests:
 
-- Involved in [[Ladder-of-Success]]
-- Involved in [[Setting-the-Woods-on-Fire]]
+- Involved in [[Ladder of Success]]
+- Involved in [[Setting the Woods on Fire]]
 
 ## Tags:
 

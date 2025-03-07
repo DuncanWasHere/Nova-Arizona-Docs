@@ -6,7 +6,7 @@ Constantinus represents the Centurions at the Legate’s Camp.
 
 ## Quests:
 
-- Gives [[They're-Hangin'-Me-Tonight]]
+- Gives [[They're Hangin' Me Tonight]]
 
 ## Tags:
 

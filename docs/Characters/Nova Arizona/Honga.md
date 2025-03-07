@@ -8,7 +8,7 @@ After his capture, Honga was transported to [[Chloride]] and then sold to [[Juli
 
 ## Quests:
 
-- Gives [[The-Payback]]
+- Gives [[The Payback]]
 
 ## Tags:
 

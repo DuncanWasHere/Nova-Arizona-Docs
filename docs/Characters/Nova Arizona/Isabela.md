@@ -6,9 +6,9 @@ Isabela is the mother of [[Pablo]]. Her husband was conscripted and sent off to 
 
 ## Quests:
 
-- Gives [[Breakfast-in-Bed]]
-- Involved in [[Wrong-Lake-to-Catch-a-Fish]]
-- Involved in [[Keepin'-Out-of-Mischief-Now]]
+- Gives [[Breakfast in Bed]]
+- Involved in [[Wrong Lake to Catch a Fish]]
+- Involved in [[Keepin' Out of Mischief Now]]
 
 ## Tags:
 

@@ -6,8 +6,8 @@ The Man in Black is a major smuggler for those who wish to avoid Legion scrutiny
 
 ## Quests:
 
-- Gives [[Where-the-Turf-Meets-the-Surf]]
-- Involved in [[Running-Gun]]
+- Gives [[Where the Turf Meets the Surf]]
+- Involved in [[Running Gun]]
 
 ## Tags:
 

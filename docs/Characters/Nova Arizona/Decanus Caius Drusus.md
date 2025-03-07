@@ -6,9 +6,9 @@ Drusus is highly paranoid of illegal black-market business dealings being carrie
 
 ## Quests:
 
-- Involved in [[3-O'Clock-Blues]]
-- Involved in [[White-Lightning]]
-- Involved in [[Running-Gun]]
+- Involved in [[3 O'Clock Blues]]
+- Involved in [[White Lightning]]
+- Involved in [[Running Gun]]
 
 ## Tags:
 

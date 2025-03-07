@@ -6,7 +6,7 @@ Took part in the [[Battle-of-Arizona-Spillway]].
 
 ## Quests:
 
-- Involved in [[They're-Hangin'-Me-Tonight]]
+- Involved in [[They're Hangin' Me Tonight]]
 
 ## Tags:
 

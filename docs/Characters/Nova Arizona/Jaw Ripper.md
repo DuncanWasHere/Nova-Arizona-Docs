@@ -6,7 +6,7 @@ Jaw Ripper is a kindly, polite man who views the children that he is instructing
 
 ## Quests:
 
-- Involved in [[Don't-Call-Me-Boy]]
+- Involved in [[Don't Call Me Boy]]
 
 ## Tags:
 

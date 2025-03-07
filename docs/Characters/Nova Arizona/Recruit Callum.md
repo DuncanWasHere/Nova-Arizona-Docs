@@ -6,8 +6,8 @@ Brash and immature young Legionary kidnapped by the [[Selig-Men]].
 
 ## Quests:
 
-- Gives [[Subterranean-Homesick-Blues]]
-- Involved in [[You'se-a-Viper]]
+- Gives [[Subterranean Homesick Blues]]
+- Involved in [[You'se a Viper]]
 
 ## Tags:
 

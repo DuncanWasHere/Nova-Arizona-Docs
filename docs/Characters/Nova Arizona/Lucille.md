@@ -4,8 +4,8 @@ Lucille is an elder of the [[Tall Pines]] located at the [[Tall Pines Camp]] in 
 
 ## Quests:
 
-- Gives [[The-Payback]]
-- Involved in [[Walkin'-After-Midnight]]
+- Gives [[The Payback]]
+- Involved in [[Walkin' After Midnight]]
 
 ## Tags:
 

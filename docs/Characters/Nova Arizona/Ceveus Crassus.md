@@ -8,7 +8,7 @@ Crassus has an ongoing feud with [[Scribonius Prentus]] over the status of a del
 
 ## Quests:
 
-- Involved in [[If-I-Had-a-Quarter]]
+- Involved in [[If I Had a Quarter]]
 
 ## Tags:
 

@@ -10,7 +10,7 @@ Kemper has become more bitter and mistrusting ever since being given a job by th
 
 ## Quests:
 
-- Involved in [[The-Payback]]
+- Involved in [[The Payback]]
 
 ## Tags:
 

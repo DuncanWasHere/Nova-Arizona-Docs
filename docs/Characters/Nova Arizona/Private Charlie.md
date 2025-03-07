@@ -6,9 +6,9 @@ Idealistic NCR kid from [[New Adytum]]. Massacred several refugees while the res
 
 ## Quests:
 
-- Involved in [[Barbarians-at-the-Gates]]
-- Involved in [[There's-a-Man-at-the-Door]]
-- Involved in [[But-You-Can't-Come-In]]
+- Involved in [[Barbarians at the Gates]]
+- Involved in [[There's a Man at the Door]]
+- Involved in [[But You Can't Come In]]
 
 ## Tags:
 

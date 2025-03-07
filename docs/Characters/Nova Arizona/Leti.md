@@ -4,7 +4,7 @@ Leti is one of the last survivors of the [[Selig-Men]] tribe, hiding out in [[Bi
 
 ## Quests:
 
-- Involved in [[Subterranean-Homesick-Blues]]
+- Involved in [[Subterranean Homesick Blues]]
 
 ## Tags:
 

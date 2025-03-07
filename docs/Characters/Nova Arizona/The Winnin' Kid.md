@@ -6,7 +6,7 @@ Late teenager from [[Bagdad]]. Traveling the wastes in the hopes of becoming a f
 
 ## Quests:
 
-- Gives [[Here's-to-the-Losers]]
+- Gives [[Here's to the Losers]]
 
 ## Tags:
 

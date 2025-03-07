@@ -6,7 +6,7 @@ Olivio keeps track of slaves, precious materials, and raw stone production.
 
 ## Quests:
 
-- Involved in [[The-Payback]]
+- Involved in [[The Payback]]
 
 ## Tags:
 

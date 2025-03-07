@@ -6,8 +6,8 @@ Jess currently works as [[Niemann]]’s personal secretary. In it for the money.
 
 ## Quests:
 
-- Involved in [[Where-the-Turf-Meets-the-Surf]]
-- Involved in [[It's-Now-or-Never]]
+- Involved in [[Where the Turf Meets the Surf]]
+- Involved in [[It's Now or Never]]
 
 ## Tags:
 

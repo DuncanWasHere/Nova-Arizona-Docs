@@ -6,7 +6,7 @@ Legion deserter from [[Malpais Legionary Camp]]. Guarding the canyon from hostil
 
 ## Quests:
 
-- Involved in [[They're-Hangin'-Me-Tonight]]
+- Involved in [[They're Hangin' Me Tonight]]
 
 ## Tags:
 

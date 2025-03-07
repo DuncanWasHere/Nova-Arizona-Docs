@@ -6,9 +6,9 @@ Aggressive, dickish, former raider. Is very aggressive towards female players, i
 
 ## Quests:
 
-- Involved in [[Lipstick-on-Your-Collar]]
-- Involved in [[You'se-a-Viper]]
-- Involved in [[Lay-Maiden-Lay]]
+- Involved in [[Lipstick on Your Collar]]
+- Involved in [[You'se a Viper]]
+- Involved in [[Lay Maiden Lay]]
 
 ## Tags:
 

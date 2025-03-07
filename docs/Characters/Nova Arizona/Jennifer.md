@@ -4,7 +4,7 @@ Jennifer is a boomers artillery stockpiler in 2281. Generally normal Boomer and 
 
 ## Quests:
 
-- Involved in [[Is-You-or-Is-You-Ain't]]
+- Involved in [[Is You or Is You Ain't]]
 
 ## Tags:
 

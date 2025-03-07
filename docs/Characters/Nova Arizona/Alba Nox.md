@@ -11,10 +11,10 @@ Like all Frumentarii, Alba Nox was provided with an advanced education at the [[
 Alba Nox is a reasonable and well-spoken man.
 ## Quests:
 
-- Gives [[Count-Every-Star]]
-- Gives [[Hatchet-Man]]
-- Involved in [[Town-Without-Pity]]
-- Involved in [[There'll-Be-No-Next-Time]]
+- Gives [[Count Every Star]]
+- Gives [[Hatchet Man]]
+- Involved in [[Town Without Pity]]
+- Involved in [[There'll Be No Next Time]]
 
 ## Tags:
 

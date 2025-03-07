@@ -6,7 +6,7 @@ Masseuse, nurse, and counselor. Carefree and sweet, though not naive. Keeps sold
 
 ## Quests:
 
-- Involved in [[The-Night-Has-a-Thousand-Eyes]]
+- Involved in [[The Night Has a Thousand Eyes]]
 
 ## Tags:
 

@@ -6,7 +6,7 @@ With a speech check, the player makes him open up about a childhood friend and f
 
 ## Quests:
 
-- Gives [[The-Little-Green-Valley]]
+- Gives [[The Little Green Valley]]
 
 ## Tags:
 

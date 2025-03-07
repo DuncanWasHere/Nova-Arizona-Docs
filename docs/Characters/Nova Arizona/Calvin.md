@@ -6,9 +6,9 @@ Former member of the White Sands Caravans. Seeks to rebuild White Sands back to 
 
 ## Quests:
 
-- Gives [[Ladder-of-Success]]
-- Involved in [[Lipstick-on-Your-Collar]]
-- Involved in [[Setting-the-Woods-on-Fire]]
+- Gives [[Ladder of Success]]
+- Involved in [[Lipstick on Your Collar]]
+- Involved in [[Setting the Woods on Fire]]
 
 ## Tags:
 

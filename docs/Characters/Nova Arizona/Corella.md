@@ -6,9 +6,9 @@ Corella serves as the tent maid of [[Recruit Arceus]]’s contubernium.
 
 ## Quests:
 
-- Gives [[Hard-Crackers-Come-Again-No-More]]
-- Involved in [[Something-Stupid]]
-- Involved in [[Keepin'-Out-of-Mischief-Now]]
+- Gives [[Hard Crackers Come Again No More]]
+- Involved in [[Something Stupid]]
+- Involved in [[Keepin' Out of Mischief Now]]
 
 ## Tags:
 

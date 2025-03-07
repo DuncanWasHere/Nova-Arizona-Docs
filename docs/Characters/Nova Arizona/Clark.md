@@ -6,7 +6,7 @@ Clark only chooses to work for [[Niemann]] for the money. He has nothing to say 
 
 ## Quests:
 
-- Involved in [[Where-the-Turf-Meets-the-Surf]]
+- Involved in [[Where the Turf Meets the Surf]]
 
 ## Tags:
 

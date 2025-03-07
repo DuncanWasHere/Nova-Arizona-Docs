@@ -8,8 +8,8 @@ Oria has developed a rivalry with Becca over their competing influence in the to
 
 ## Quests:
 
-- Involved in [[Wrong-Lake-to-Catch-a-Fish]]
-- Involved in [[The-Night-Has-a-Thousand-Eyes]]
+- Involved in [[Wrong Lake to Catch a Fish]]
+- Involved in [[The Night Has a Thousand Eyes]]
 
 ## Tags:
 

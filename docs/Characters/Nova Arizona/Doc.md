@@ -8,7 +8,7 @@ He was previously a hydroponics doctor, but the loss of [[Niemann]] has forced h
 
 ## Quests:
 
-- Involved in [[Hatchet-Man]]
+- Involved in [[Hatchet Man]]
 
 ## Tags:
 

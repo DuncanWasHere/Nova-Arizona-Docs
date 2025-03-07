@@ -6,7 +6,7 @@ Flaminius is a Veteran of the [[Dry-Wells-Campaign|Dry Wells]] and [[Parker-Camp
 
 ## Quests:
 
-- Involved in [[There's-a-Man-at-the-Door]]
+- Involved in [[There's a Man at the Door]]
 
 ## Tags:
 

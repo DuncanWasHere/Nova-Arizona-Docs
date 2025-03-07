@@ -6,8 +6,8 @@ Fat-Eye is named after his tendency to get into fights while high and or drunk w
 
 ## Quests:
 
-- Gives [[Running-Gun]]
-- Involved in [[Where-the-Turf-Meets-the-Surf]]
+- Gives [[Running Gun]]
+- Involved in [[Where the Turf Meets the Surf]]
 
 ## Tags:
 

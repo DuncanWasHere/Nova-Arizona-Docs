@@ -6,7 +6,7 @@ Harlow is convinced his wife is cheating on him with another man and wants to se
 
 ## Quests:
 
-- Gives [[Lipstick-on-Your-Collar]]
+- Gives [[Lipstick on Your Collar]]
 - Involved in [[Taxman]]
 
 ## Tags:

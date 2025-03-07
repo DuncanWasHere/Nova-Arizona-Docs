@@ -6,7 +6,7 @@ Primarily concerned with educating the children and instilling in them Legion va
 
 ## Quests:
 
-- Involved in [[The-Night-Has-a-Thousand-Eyes]]
+- Involved in [[The Night Has a Thousand Eyes]]
 
 ## Tags:
 

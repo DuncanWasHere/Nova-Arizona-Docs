@@ -6,9 +6,9 @@ Originally from [[Vault 17]], Job is prone to fits of psychotic rage as he is fu
 
 ## Quests:
 
-- Involved in [[I-Have-Sinned]]
-- Involved in [[It's-Now-or-Never]]
-- Involved in [[Hatchet-Man]]
+- Involved in [[I Have Sinned]]
+- Involved in [[It's Now or Never]]
+- Involved in [[Hatchet Man]]
 
 ## Tags:
 

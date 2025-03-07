@@ -6,8 +6,8 @@ A Nightkin with a split personality. He alternates between dull hermit rancher, 
 
 ## Quests:
 
-- Gives [[The-Master's-Call]]
-- Involved in [[Count-Every-Star]]
+- Gives [[The Master's Call]]
+- Involved in [[Count Every Star]]
 
 ## Tags:
 

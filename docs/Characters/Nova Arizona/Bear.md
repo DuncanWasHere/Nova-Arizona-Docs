@@ -10,8 +10,8 @@ When he regained consciousness, Bear discovered that Kyle had freed Jillian and 
 
 ## Quests:
 
-- Gives [[Unchain-My-Heart]]
-- Involved in [[Count-Every-Star]]
+- Gives [[Unchain My Heart]]
+- Involved in [[Count Every Star]]
 
 ## Tags:
 

@@ -6,7 +6,7 @@ he middlest of the Giordano brothers. Runs the storelot and logistics of the 3-S
 
 ## Quests:
 
-- Involved in [[3-O'Clock-Blues]]
+- Involved in [[3 O'Clock Blues]]
 - Involved in [[Unnamed)-Chainway-Foreman-Letter-Delivery-Quest](../../Quests/(Unnamed|(Unnamed)-Chainway-Foreman-Letter-Delivery-Quest]]-Chainway-Foreman-Letter-Delivery-Quest.md)
 
 ## Tags:

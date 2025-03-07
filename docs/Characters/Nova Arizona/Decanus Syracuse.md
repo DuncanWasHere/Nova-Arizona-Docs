@@ -6,8 +6,8 @@ Syracuse is a relatively laidback Legionary commander.
 
 ## Quests:
 
-- Involved in [[Something-Stupid]]
-- Involved in [[Keepin'-Out-of-Mischief-Now]]
+- Involved in [[Something Stupid]]
+- Involved in [[Keepin' Out of Mischief Now]]
 
 ## Tags:
 

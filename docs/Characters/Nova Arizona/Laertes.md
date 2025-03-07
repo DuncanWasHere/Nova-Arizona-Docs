@@ -6,8 +6,8 @@ Formerly a member of the Hangdogs - Quest to find a Legion pup which has run off
 
 ## Quests:
 
-- Gives [[King-of-the-Road]]
-- Involved in [[Town-Without-Pity]]
+- Gives [[King of the Road]]
+- Involved in [[Town Without Pity]]
 
 ## Tags:
 
